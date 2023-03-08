@@ -1,0 +1,861 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="#VAMOS HD" tvg-name="#0 (ENCODER 1920P / 29 FPS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar+.svg/1123px-0_Movistar+.svg.png" group-title="LIVE | PELICULAS",#0 (ENCODER 1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/25054
+#EXTINF:-1 tvg-ID="amchd.mx" tvg-name="AMC (1920P / 29 FPS) (M)" tvg-logo="http://listado.16mb.com/logosj/amc.png" group-title="LIVE | PELICULAS",AMC (1920P / 29 FPS) (M)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/13813
+#EXTINF:-1 tvg-ID="cinelatino.mx" tvg-name="CINE LATINO (J)" tvg-logo="http://listado.16mb.com/logosj/cinelatino.png" group-title="LIVE | PELICULAS",CINE LATINO (J)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/73273
+#EXTINF:-1 tvg-ID="cinelatino.mx" tvg-name="CINE LATINO (R)" tvg-logo="http://listado.16mb.com/logosj/cinelatino.png" group-title="LIVE | PELICULAS",CINE LATINO (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/25103
+#EXTINF:-1 tvg-ID="thriller" tvg-name="CINE SURENO (ENCODER 1920P / 29 FPS)" tvg-logo="http://listado.16mb.com/logosj/cinesureno.png" group-title="LIVE | PELICULAS",CINE SURENO (ENCODER 1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/25231
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE VIP HD*" tvg-logo="https://e7.pngegg.com/pngimages/521/935/png-clipart-cinema-television-film-film-elements-food-logo.png" group-title="LIVE | PELICULAS",CINE VIP HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/61148
+#EXTINF:-1 tvg-ID="cinecanalhd.mx" tvg-name="CINECANAL ENCODER (1920P / 29 FPS) (P)" tvg-logo="http://listado.16mb.com/logosj/cinecanal.png" group-title="LIVE | PELICULAS",CINECANAL ENCODER (1920P / 29 FPS) (P)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/19707
+#EXTINF:-1 tvg-ID="cinemax.mx" tvg-name="CINEMAX  (R) #OP.2" tvg-logo="http://listado.16mb.com/logosj/cinemax.png" group-title="LIVE | PELICULAS",CINEMAX  (R) #OP.2
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/25104
+#EXTINF:-1 tvg-ID="cinemax.mx" tvg-name="CINEMAX ENCODER (1920P / 29 FPS) (S)" tvg-logo="http://listado.16mb.com/logosj/cinemax.png" group-title="LIVE | PELICULAS",CINEMAX ENCODER (1920P / 29 FPS) (S)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/21344
+#EXTINF:-1 tvg-ID="depeliculaclasico.mx" tvg-name="DE PELICUALA CLASSIC HD LATINO" tvg-logo="http://listado.16mb.com/logosj/depeliculaclasico.png" group-title="LIVE | PELICULAS",DE PELICUALA CLASSIC HD LATINO
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/23976
+#EXTINF:-1 tvg-ID="fx.mx" tvg-name="FX FHD (1920P / 29 FPS)" tvg-logo="http://listado.16mb.com/logosj/fx.png" group-title="LIVE | PELICULAS",FX FHD (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28814
+#EXTINF:-1 tvg-ID="goldenedge.mx" tvg-name="GOLDEN EDGE ENCODER (EX)" tvg-logo="http://listado.16mb.com/logosj/goldenedge.png" group-title="LIVE | PELICULAS",GOLDEN EDGE ENCODER (EX)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28980
+#EXTINF:-1 tvg-ID="goldenpremier.mx" tvg-name="GOLDEN PREMIER FHD (ENCODER ) (1920P / 29 FPS) (B)" tvg-logo="http://listado.16mb.com/logosj/goldenp.png" group-title="LIVE | PELICULAS",GOLDEN PREMIER FHD (ENCODER ) (1920P / 29 FPS) (B)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28817
+#EXTINF:-1 tvg-ID="goldenpremier.mx" tvg-name="GOLDEN PREMIERE 2 FHD" tvg-logo="http://listado.16mb.com/logosj/goldenp.png" group-title="LIVE | PELICULAS",GOLDEN PREMIERE 2 FHD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/24021
+#EXTINF:-1 tvg-ID="hbo.mx" tvg-name="HBO (ENCODER 1920P / 29 FPS) (B)" tvg-logo="http://listado.16mb.com/logosj/hbo.png" group-title="LIVE | PELICULAS",HBO (ENCODER 1920P / 29 FPS) (B)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/19744
+#EXTINF:-1 tvg-ID="hboplus.mx" tvg-name="HBO + (ENCODER ) (1920P / 29 FPS) (B)" tvg-logo="http://listado.16mb.com/logosj/hboplus.png" group-title="LIVE | PELICULAS",HBO + (ENCODER ) (1920P / 29 FPS) (B)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/19745
+#EXTINF:-1 tvg-ID="hbofamily.mx" tvg-name="HBO FAMILY (1920P / 29 FPS) (R)" tvg-logo="http://listado.16mb.com/logosj/hbofamily.png" group-title="LIVE | PELICULAS",HBO FAMILY (1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/13814
+#EXTINF:-1 tvg-ID="hbofamily.mx" tvg-name="HBO FAMILY (CO)  (1920P / 29 FPS) (R)" tvg-logo="http://listado.16mb.com/logosj/hbofamily.png" group-title="LIVE | PELICULAS",HBO FAMILY (CO)  (1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/14100
+#EXTINF:-1 tvg-ID="hbofamily.mx" tvg-name="HBO FAMILY (ENCODER 1920P / 29 FPS) (R)" tvg-logo="http://listado.16mb.com/logosj/hbofamily.png" group-title="LIVE | PELICULAS",HBO FAMILY (ENCODER 1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/19743
+#EXTINF:-1 tvg-ID="AR - HBO" tvg-name="HBO FHD (AR) (1920P / 29 FPS) " tvg-logo="http://listado.16mb.com/logosj/hbo.png" group-title="LIVE | PELICULAS",HBO FHD (AR) (1920P / 29 FPS) 
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/14105
+#EXTINF:-1 tvg-ID="hbomundi.mx" tvg-name="HBO MUNDI ENCODER (K)" tvg-logo="http://listado.16mb.com/logosj/hbomundi.png" group-title="LIVE | PELICULAS",HBO MUNDI ENCODER (K)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28989
+#EXTINF:-1 tvg-ID="hbo.mx" tvg-name="HBO SUB (ENCODER ) (1920P / 29 FPS) (R)" tvg-logo="http://listado.16mb.com/logosj/hbo.png" group-title="LIVE | PELICULAS",HBO SUB (ENCODER ) (1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/21346
+#EXTINF:-1 tvg-ID="hboxtreme.mx" tvg-name="HBO XTREME ENCODER" tvg-logo="http://listado.16mb.com/logosj/hboxtreme.png" group-title="LIVE | PELICULAS",HBO XTREME ENCODER
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28993
+#EXTINF:-1 tvg-ID="hboxtreme.mx" tvg-name="HBO XTREME HD (B)" tvg-logo="http://listado.16mb.com/logosj/hboxtreme.png" group-title="LIVE | PELICULAS",HBO XTREME HD (B)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/18835
+#EXTINF:-1 tvg-ID="multicinema.mx" tvg-name="MULTI CINEMA (J)" tvg-logo="http://listado.16mb.com/logosj/mc.png" group-title="LIVE | PELICULAS",MULTI CINEMA (J)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/73270
+#EXTINF:-1 tvg-ID="multipremier.mx" tvg-name="MULTIPREMIER (J)" tvg-logo="http://listado.16mb.com/logosj/mp.png" group-title="LIVE | PELICULAS",MULTIPREMIER (J)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/73298
+#EXTINF:-1 tvg-ID="paramountchannel.mx" tvg-name="PARAMOUNT FHD  (1920P / 29 FPS) (B)" tvg-logo="http://listado.16mb.com/logosj/paramount.png" group-title="LIVE | PELICULAS",PARAMOUNT FHD  (1920P / 29 FPS) (B)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/14106
+#EXTINF:-1 tvg-ID="paramountchannel.mx" tvg-name="PARAMOUNT FHD (R) (29 FPS)" tvg-logo="http://listado.16mb.com/logosj/paramount.png" group-title="LIVE | PELICULAS",PARAMOUNT FHD (R) (29 FPS)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/24289
+#EXTINF:-1 tvg-ID="sonyhd.mx" tvg-name="SONY HD CENTRAL ENCODER (H265)" tvg-logo="http://listado.16mb.com/logosj/sony.png" group-title="LIVE | PELICULAS",SONY HD CENTRAL ENCODER (H265)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/41597
+#EXTINF:-1 tvg-ID="space.mx" tvg-name="SPACE  (ENCODER) (K)" tvg-logo="http://listado.16mb.com/logosj/space.png" group-title="LIVE | PELICULAS",SPACE  (ENCODER) (K)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28870
+#EXTINF:-1 tvg-ID="fox.mx" tvg-name="STAR CHANNEL (ENCODER ) (1920P / 29 FPS) (R)" tvg-logo="http://listado.16mb.com/logosj/star.png" group-title="LIVE | PELICULAS",STAR CHANNEL (ENCODER ) (1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/21342
+#EXTINF:-1 tvg-ID="starzencore.us" tvg-name="STARZ ENCORE ESPANOL (R)" tvg-logo="http://listado.16mb.com/logosj/starzencore.png" group-title="LIVE | PELICULAS",STARZ ENCORE ESPANOL (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/24224
+#EXTINF:-1 tvg-ID="starzkidsfamilypacific.us" tvg-name="STARZ KIDS & FAMILY FHD (LAT)" tvg-logo="http://listado.16mb.com/logosj/starz.png" group-title="LIVE | PELICULAS",STARZ KIDS & FAMILY FHD (LAT)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/13935
+#EXTINF:-1 tvg-ID="tnt.mx" tvg-name="TNT (J)(EX)" tvg-logo="http://listado.16mb.com/logosj/tnt.png" group-title="LIVE | PELICULAS",TNT (J)(EX)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/73281
+#EXTINF:-1 tvg-ID="tntseries.mx" tvg-name="TNT SERIES FHD (ENCODER ) (1920P / 29 FPS)" tvg-logo="http://listado.16mb.com/logosj/tnt.png" group-title="LIVE | PELICULAS",TNT SERIES FHD (ENCODER ) (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28815
+#EXTINF:-1 tvg-ID="ext" tvg-name="TOP CINE (ENCODER 1920P / 29 FPS)" tvg-logo="https://pbs.twimg.com/profile_images/1100890361092702208/J_L9C6Nv_400x400.png" group-title="LIVE | PELICULAS",TOP CINE (ENCODER 1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/25230
+#EXTINF:-1 tvg-ID="I656.122767.schedulesdirect.org" tvg-name="UNIVERSAL CINEMA" tvg-logo="http://listado.16mb.com/logosj/universalcinema.png" group-title="LIVE | PELICULAS",UNIVERSAL CINEMA
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/35075
+#EXTINF:-1 tvg-ID="I657.122769.schedulesdirect.org" tvg-name="UNIVERSAL COMEDY" tvg-logo="http://listado.16mb.com/logosj/universalcomedy.png" group-title="LIVE | PELICULAS",UNIVERSAL COMEDY
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/35076
+#EXTINF:-1 tvg-ID="I211.16799.schedulesdirect.org" tvg-name="UNIVERSAL CRIME" tvg-logo="http://listado.16mb.com/logosj/universalcrime.png" group-title="LIVE | PELICULAS",UNIVERSAL CRIME
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/35077
+#EXTINF:-1 tvg-ID="I122.11097.schedulesdirect.org" tvg-name="UNIVERSAL PREMIERE" tvg-logo="http://listado.16mb.com/logosj/universalpremiere.png" group-title="LIVE | PELICULAS",UNIVERSAL PREMIERE
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/35078
+#EXTINF:-1 tvg-ID="I122.11097.schedulesdirect.org" tvg-name="UNIVERSAL PREMIERE  ENCODER" tvg-logo="http://listado.16mb.com/logosj/universalpremiere.png" group-title="LIVE | PELICULAS",UNIVERSAL PREMIERE  ENCODER
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28995
+#EXTINF:-1 tvg-ID="warnerchannel.mx" tvg-name="WARNER FHD" tvg-logo="http://listado.16mb.com/logosj/warner.png" group-title="LIVE | PELICULAS",WARNER FHD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/13805
+#EXTINF:-1 tvg-ID="ext" tvg-name="24/7 ACAPULCO SHORE" tvg-logo="https://www.themoviedb.org/t/p/original/h2XJ1Tf9yd8PWwbujMTvyL3p9Md.jpg" group-title="LIVE | TV 24/7",24/7 ACAPULCO SHORE
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/25055
+#EXTINF:-1 tvg-ID="ext" tvg-name="24/7 CHAPULIN COLORADO K" tvg-logo="https://www.themoviedb.org/t/p/w500/nO9Ik4eH7RTX9r11qPtUWfMsWJA.jpg" group-title="LIVE | TV 24/7",24/7 CHAPULIN COLORADO K
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/17548
+#EXTINF:-1 tvg-ID="ext" tvg-name="24/7 DESAFIO SOBRE RUEDA HD" tvg-logo="https://png.pngtree.com/template/20220218/ourmid/pngtree-publicity-poster-of-atmospheric-c4d-technology-and-artificial-intelligence-leading-the-image_763444.jpg" group-title="LIVE | TV 24/7",24/7 DESAFIO SOBRE RUEDA HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/14616
+#EXTINF:-1 tvg-ID="ext" tvg-name="24/7 DISNEY PRINCESS FHD" tvg-logo="https://i.pinimg.com/736x/fa/be/33/fabe33dbb328d250f34cd65b31eb1cb6--princesa-aurora-disney-characters.jpg" group-title="LIVE | TV 24/7",24/7 DISNEY PRINCESS FHD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/17550
+#EXTINF:-1 tvg-ID="ext" tvg-name="24/7 DON GATO Y SU PANDILLA" tvg-logo="https://parecidas.com/img_es/movie/thumb/e2/2186.jpg" group-title="LIVE | TV 24/7",24/7 DON GATO Y SU PANDILLA
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/17549
+#EXTINF:-1 tvg-ID="ext" tvg-name="24/7 DRAGON BALL (VERS EXTENDIDA)" tvg-logo="https://i.pinimg.com/originals/04/ae/02/04ae02921dd980ab1545bf4661eea1d6.png" group-title="LIVE | TV 24/7",24/7 DRAGON BALL (VERS EXTENDIDA)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/14609
+#EXTINF:-1 tvg-ID="ext" tvg-name="24/7 DRAGON BALL GT" tvg-logo="https://i.pinimg.com/originals/1a/cd/22/1acd22a51f96a242b2e11882e398095d.png" group-title="LIVE | TV 24/7",24/7 DRAGON BALL GT
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/14608
+#EXTINF:-1 tvg-ID="ext" tvg-name="24/7 EL CHAVO DEL 8 ANIMADO" tvg-logo="https://www.themoviedb.org/t/p/original/dxoiYQAMuVhF6ICkgYwUqqX47w5.jpg" group-title="LIVE | TV 24/7",24/7 EL CHAVO DEL 8 ANIMADO
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/45322
+#EXTINF:-1 tvg-ID="ext" tvg-name="24/7 EL COYOTE Y EL CORRECAMINO" tvg-logo="https://www.videomanquehue.cl/images/peliculas/DV1338.jpg" group-title="LIVE | TV 24/7",24/7 EL COYOTE Y EL CORRECAMINO
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/17553
+#EXTINF:-1 tvg-ID="ext" tvg-name="24/7 ESCOBAR: EL PATRON DEL MAL" tvg-logo="https://i.pinimg.com/originals/2d/54/4a/2d544abadd32817459e6eb6c32303ed3.jpg" group-title="LIVE | TV 24/7",24/7 ESCOBAR: EL PATRON DEL MAL
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/18085
+#EXTINF:-1 tvg-ID="ext" tvg-name="24/7 FRIENDS FHD" tvg-logo="https://i.pinimg.com/originals/c6/ba/7d/c6ba7d6beb4dd12afdd8b2cde3270d5d.png" group-title="LIVE | TV 24/7",24/7 FRIENDS FHD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/17541
+#EXTINF:-1 tvg-ID="ext" tvg-name="24/7 HEY ARNOLD" tvg-logo="https://i.pinimg.com/originals/8f/9d/ac/8f9dac5d623a3c67fcb237e3eaf5a0da.jpg" group-title="LIVE | TV 24/7",24/7 HEY ARNOLD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/7493
+#EXTINF:-1 tvg-ID="ext" tvg-name="24/7 JACKIE CHAN ACTION MOVIE 2 (K)" tvg-logo="https://i.pinimg.com/originals/d0/e7/a3/d0e7a3659f897cc8d62608974fbdad38.jpg" group-title="LIVE | TV 24/7",24/7 JACKIE CHAN ACTION MOVIE 2 (K)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/14613
+#EXTINF:-1 tvg-ID="ext" tvg-name="24/7 JUEGO DEL CALAMAR HD" tvg-logo="https://i.pinimg.com/originals/24/9d/d0/249dd04802d0c76516048232fc38972c.jpg" group-title="LIVE | TV 24/7",24/7 JUEGO DEL CALAMAR HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/17038
+#EXTINF:-1 tvg-ID="ext" tvg-name="24/7 LA CASA DE MICKEY MOUSE" tvg-logo="https://www.pngkey.com/png/full/299-2996712_la-casa-de-mickey-mouse-mickey-mouse-clubhouse.png" group-title="LIVE | TV 24/7",24/7 LA CASA DE MICKEY MOUSE
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/14607
+#EXTINF:-1 tvg-ID="ext" tvg-name="24/7 LA CASA DE PAPEL" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e20cdf100842623.5f12c7e49d87f.png" group-title="LIVE | TV 24/7",24/7 LA CASA DE PAPEL
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/14758
+#EXTINF:-1 tvg-ID="ext" tvg-name="24/7 LA CASE DE PAPEL HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e20cdf100842623.5f12c7e49d87f.png" group-title="LIVE | TV 24/7",24/7 LA CASE DE PAPEL HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/36658
+#EXTINF:-1 tvg-ID="cartoon" tvg-name="24/7 LOS CABALLEROS DEL  ZODIACO" tvg-logo="https://i.pinimg.com/474x/be/79/4f/be794fe8d7a605df2f6706801f3dd1f8.jpg" group-title="LIVE | TV 24/7",24/7 LOS CABALLEROS DEL  ZODIACO
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/17552
+#EXTINF:-1 tvg-ID="ext" tvg-name="24/7 LOS PICAPIEDRAS FHD" tvg-logo="https://i.pinimg.com/originals/36/aa/33/36aa3395d3d53879ca27dc02136abbc2.png" group-title="LIVE | TV 24/7",24/7 LOS PICAPIEDRAS FHD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/17547
+#EXTINF:-1 tvg-ID="ext" tvg-name="24/7 PEDRO INFANTE" tvg-logo="https://i.pinimg.com/originals/c2/f8/0f/c2f80f21fe55b2722d018eb5ed292d2d.jpg" group-title="LIVE | TV 24/7",24/7 PEDRO INFANTE
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/14187
+#EXTINF:-1 tvg-ID="ext" tvg-name="24/7 | EL CHAVO DEL OCHO" tvg-logo="https://www.themoviedb.org/t/p/original/3nwMEGhF9riFRJtqUsxCxeZL6Q5.jpg" group-title="LIVE | TV 24/7",24/7 | EL CHAVO DEL OCHO
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/45323
+#EXTINF:-1 tvg-ID="ext" tvg-name="PARTIDOS DE MÉXICO EN BRASIL 2014" tvg-logo="https://i.pinimg.com/736x/e7/82/50/e782508ced7db29400154a08e36b8f3f--piala-dunia-wk-.jpg" group-title="LIVE | TV 24/7",PARTIDOS DE MÉXICO EN BRASIL 2014
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/75106
+#EXTINF:-1 tvg-ID="ext" tvg-name="PARTIDOS DE MÉXICO EN RUSIA 2018" tvg-logo="https://i.pinimg.com/originals/58/a6/13/58a6139d037b10734c0b9336808b923f.jpg" group-title="LIVE | TV 24/7",PARTIDOS DE MÉXICO EN RUSIA 2018
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/75107
+#EXTINF:-1 tvg-ID="ext" tvg-name="THE WALKING DEAD" tvg-logo="https://w7.pngwing.com/pngs/111/215/png-transparent-the-walking-dead-survival-instinct-atlanta-rick-grimes-morales-dead-miscellaneous-text-logo.png" group-title="LIVE | TV 24/7",THE WALKING DEAD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/14722
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K  | VIP ACTION CH 21" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K  | VIP ACTION CH 21
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31497
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K  | VIP ACTION CH 22" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K  | VIP ACTION CH 22
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31498
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K  | VIP EL JUEGO DEL CALAMARTV" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K  | VIP EL JUEGO DEL CALAMARTV
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31476
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K  | VIP ESTRENO CH 1" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K  | VIP ESTRENO CH 1
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31477
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K  | VIP ESTRENO CH 10" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K  | VIP ESTRENO CH 10
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31486
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K  | VIP ESTRENO CH 11" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K  | VIP ESTRENO CH 11
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31487
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K  | VIP ESTRENO CH 12" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K  | VIP ESTRENO CH 12
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31488
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K  | VIP ESTRENO CH 13" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K  | VIP ESTRENO CH 13
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31489
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K  | VIP ESTRENO CH 14" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K  | VIP ESTRENO CH 14
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31490
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K  | VIP ESTRENO CH 15" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K  | VIP ESTRENO CH 15
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31491
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K  | VIP ESTRENO CH 16" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K  | VIP ESTRENO CH 16
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31492
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K  | VIP ESTRENO CH 17" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K  | VIP ESTRENO CH 17
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31493
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K  | VIP ESTRENO CH 18" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K  | VIP ESTRENO CH 18
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31494
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K  | VIP ESTRENO CH 19" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K  | VIP ESTRENO CH 19
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31495
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K  | VIP ESTRENO CH 2" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K  | VIP ESTRENO CH 2
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31478
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K  | VIP ESTRENO CH 20" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K  | VIP ESTRENO CH 20
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31496
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K  | VIP ESTRENO CH 3" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K  | VIP ESTRENO CH 3
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31479
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K  | VIP ESTRENO CH 4" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K  | VIP ESTRENO CH 4
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31480
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K  | VIP ESTRENO CH 5" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K  | VIP ESTRENO CH 5
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31481
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K  | VIP ESTRENO CH 6" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K  | VIP ESTRENO CH 6
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31482
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K  | VIP ESTRENO CH 7" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K  | VIP ESTRENO CH 7
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31483
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K  | VIP ESTRENO CH 8" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K  | VIP ESTRENO CH 8
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31484
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K  | VIP ESTRENO CH 9" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K  | VIP ESTRENO CH 9
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31485
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K | VIP ACTION CH 23" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K | VIP ACTION CH 23
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31508
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K | VIP ACTION CH 24" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K | VIP ACTION CH 24
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31509
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K | VIP ACTION CH 25" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K | VIP ACTION CH 25
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31510
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K | VIP ACTION CH 26" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K | VIP ACTION CH 26
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31511
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K | VIP ACTION CH 27" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K | VIP ACTION CH 27
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31512
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K | VIP ACTION CH 28" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K | VIP ACTION CH 28
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31513
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K | VIP ACTION CH 29" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K | VIP ACTION CH 29
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31514
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K | VIP COMEDIA CH 39" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K | VIP COMEDIA CH 39
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/32637
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K | VIP COMEDIA CH 40" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K | VIP COMEDIA CH 40
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/32638
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K | VIP COMEDIA CH 41" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K | VIP COMEDIA CH 41
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/32639
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K | VIP COMEDIA CH 42" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K | VIP COMEDIA CH 42
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/32640
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K | VIP COMEDIA CH 43" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K | VIP COMEDIA CH 43
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/32641
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K | VIP COMEDIA CH 44" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K | VIP COMEDIA CH 44
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/32642
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K | VIP COMEDIA CH 45" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K | VIP COMEDIA CH 45
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/32643
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K | VIP COMEDIA CH 46" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K | VIP COMEDIA CH 46
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/32644
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K | VIP COMEDIA CH 47" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K | VIP COMEDIA CH 47
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/32645
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K | VIP COMEDIA CH 48" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K | VIP COMEDIA CH 48
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/32646
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K | VIP COMEDIA CH 49" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K | VIP COMEDIA CH 49
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/32647
+#EXTINF:-1 tvg-ID="ext" tvg-name="4K | VIP COMEDIA CH 50" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",4K | VIP COMEDIA CH 50
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/32648
+#EXTINF:-1 tvg-ID="ext" tvg-name="HD | CH 28 ACTION HD" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",HD | CH 28 ACTION HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31515
+#EXTINF:-1 tvg-ID="ext" tvg-name="HD | CH 29 ACTION HD" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",HD | CH 29 ACTION HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31516
+#EXTINF:-1 tvg-ID="ext" tvg-name="HD | CH 30 ACTION HD" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",HD | CH 30 ACTION HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31517
+#EXTINF:-1 tvg-ID="ext" tvg-name="HD | CH 31 ACTION HD" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",HD | CH 31 ACTION HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31518
+#EXTINF:-1 tvg-ID="ext" tvg-name="HD | CH 32 ACTION HD" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",HD | CH 32 ACTION HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31519
+#EXTINF:-1 tvg-ID="ext" tvg-name="HD | CH 33 ACTION HD" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",HD | CH 33 ACTION HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31520
+#EXTINF:-1 tvg-ID="ext" tvg-name="HD | CH 34 ACTION HD" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",HD | CH 34 ACTION HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31521
+#EXTINF:-1 tvg-ID="ext" tvg-name="HD | CH 35 ACTION HD" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",HD | CH 35 ACTION HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31522
+#EXTINF:-1 tvg-ID="ext" tvg-name="HD | CH 36 ACTION HD" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",HD | CH 36 ACTION HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31523
+#EXTINF:-1 tvg-ID="ext" tvg-name="HD | CH 37 ACTION HD" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",HD | CH 37 ACTION HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31524
+#EXTINF:-1 tvg-ID="ext" tvg-name="HD | CH 38 ACTION HD" tvg-logo="https://www.pinclipart.com/picdir/big/111-1113660_demand-5-logo-png-banner-library-stock-ytv.png" group-title="LIVE | KL8TV OnDemand 4K ",HD | CH 38 ACTION HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31525
+#EXTINF:-1 tvg-ID="aandemundo.mx" tvg-name="A&E SD" tvg-logo="http://listado.16mb.com/logosj/aye.png" group-title="LIVE | MEXICO 2MG",A&E SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57753
+#EXTINF:-1 tvg-ID="I35.90898.schedulesdirect.org" tvg-name="A3 SERIES SD" tvg-logo="http://listado.16mb.com/logosj/a3series.png" group-title="LIVE | MEXICO 2MG",A3 SERIES SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57779
+#EXTINF:-1 tvg-ID="amc.mx" tvg-name="AMC SD" tvg-logo="http://listado.16mb.com/logosj/amc.png" group-title="LIVE | MEXICO 2MG",AMC SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57754
+#EXTINF:-1 tvg-ID="I23.96445.schedulesdirect.org" tvg-name="ANIMAL PLANET SD" tvg-logo="http://listado.16mb.com/logosj/ap.png" group-title="LIVE | MEXICO 2MG",ANIMAL PLANET SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57755
+#EXTINF:-1 tvg-ID="axn.mx" tvg-name="AXN SD" tvg-logo="http://listado.16mb.com/logosj/axn.png" group-title="LIVE | MEXICO 2MG",AXN SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57756
+#EXTINF:-1 tvg-ID="aymsports.mx" tvg-name="AYM SPORTS SD" tvg-logo="http://listado.16mb.com/logosj/aym.png" group-title="LIVE | MEXICO 2MG",AYM SPORTS SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57659
+#EXTINF:-1 tvg-ID="azteca7.mx" tvg-name="AZTECA 7 HD" tvg-logo="http://listado.16mb.com/logosj/azteca7.png" group-title="LIVE | MEXICO 2MG",AZTECA 7 HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42522
+#EXTINF:-1 tvg-ID="azteca7.mx" tvg-name="AZTECA 7 SD " tvg-logo="http://listado.16mb.com/logosj/azteca7.png" group-title="LIVE | MEXICO 2MG",AZTECA 7 SD 
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57575
+#EXTINF:-1 tvg-ID="I824.56036.schedulesdirect.org" tvg-name="BABYT SD" tvg-logo="http://listado.16mb.com/logosj/babytv.png" group-title="LIVE | MEXICO 2MG",BABYT SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57740
+#EXTINF:-1 tvg-ID="canal22.mx" tvg-name="CANAL 22 SD" tvg-logo="http://listado.16mb.com/logosj/22.png" group-title="LIVE | MEXICO 2MG",CANAL 22 SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42552
+#EXTINF:-1 tvg-ID="canal22.mx" tvg-name="CANAL 22 SD" tvg-logo="http://listado.16mb.com/logosj/22.png" group-title="LIVE | MEXICO 2MG",CANAL 22 SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57757
+#EXTINF:-1 tvg-ID="5nacional.mx" tvg-name="CANAL 5 MEXICO SD " tvg-logo="http://listado.16mb.com/logosj/canal5.png" group-title="LIVE | MEXICO 2MG",CANAL 5 MEXICO SD 
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42534
+#EXTINF:-1 tvg-ID="5nacional.mx" tvg-name="CANAL 5 SD" tvg-logo="http://listado.16mb.com/logosj/canal5.png" group-title="LIVE | MEXICO 2MG",CANAL 5 SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57656
+#EXTINF:-1 tvg-ID="canaldelcongreso.mx" tvg-name="CANAL DEL CONGRESO SD" tvg-logo="http://listado.16mb.com/logosj/congreso.png" group-title="LIVE | MEXICO 2MG",CANAL DEL CONGRESO SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57742
+#EXTINF:-1 tvg-ID="I99.92395.schedulesdirect.org" tvg-name="CANAL14 SD" tvg-logo="http://listado.16mb.com/logosj/canal14.png" group-title="LIVE | MEXICO 2MG",CANAL14 SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57657
+#EXTINF:-1 tvg-ID="cartoonnetwork.mx" tvg-name="CARTOON NETWORK SD" tvg-logo="http://listado.16mb.com/logosj/cartoon.png" group-title="LIVE | MEXICO 2MG",CARTOON NETWORK SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57605
+#EXTINF:-1 tvg-ID="I119.55719.schedulesdirect.org" tvg-name="CARTOONITOO SD" tvg-logo="http://listado.16mb.com/logosj/cartoonito.png" group-title="LIVE | MEXICO 2MG",CARTOONITOO SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57608
+#EXTINF:-1 tvg-ID="cinelatino.mx" tvg-name="CINE LATINO SD" tvg-logo="http://listado.16mb.com/logosj/cinelatino.png" group-title="LIVE | MEXICO 2MG",CINE LATINO SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57758
+#EXTINF:-1 tvg-ID="cinecanal.mx" tvg-name="CINECANAL SD" tvg-logo="http://listado.16mb.com/logosj/cinecanal.png" group-title="LIVE | MEXICO 2MG",CINECANAL SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57655
+#EXTINF:-1 tvg-ID="cinemax.mx" tvg-name="CINEMAX SD" tvg-logo="http://listado.16mb.com/logosj/cinemax.png" group-title="LIVE | MEXICO 2MG",CINEMAX SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57609
+#EXTINF:-1 tvg-ID="I122.11097.schedulesdirect.org" tvg-name="CLARO SPORTS SD" tvg-logo="http://listado.16mb.com/logosj/clarosports.png" group-title="LIVE | MEXICO 2MG",CLARO SPORTS SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57610
+#EXTINF:-1 tvg-ID="cnnenespanol.mx" tvg-name="CNN ESPAÑOL SD" tvg-logo="http://listado.16mb.com/logosj/cnn.png" group-title="LIVE | MEXICO 2MG",CNN ESPAÑOL SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57607
+#EXTINF:-1 tvg-ID="I122.11097.schedulesdirect.org" tvg-name="CNN ESPAÑOL SD K" tvg-logo="http://listado.16mb.com/logosj/cnn.png" group-title="LIVE | MEXICO 2MG",CNN ESPAÑOL SD K
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42556
+#EXTINF:-1 tvg-ID="I358.10146.zap2it.com" tvg-name="CNN INTERNACIONAL SD" tvg-logo="http://listado.16mb.com/logosj/cnn.png" group-title="LIVE | MEXICO 2MG",CNN INTERNACIONAL SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57606
+#EXTINF:-1 tvg-ID="comedycentral.mx" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://listado.16mb.com/logosj/comedycentral.png" group-title="LIVE | MEXICO 2MG",COMEDY CENTRAL SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57741
+#EXTINF:-1 tvg-ID="discoveryhomeandhealth.mx" tvg-name="DISCOVERY H&H SD" tvg-logo="http://listado.16mb.com/logosj/hh.png" group-title="LIVE | MEXICO 2MG",DISCOVERY H&H SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57759
+#EXTINF:-1 tvg-ID="investigationdiscovery.mx" tvg-name="DISCOVERY ID SD" tvg-logo="http://listado.16mb.com/logosj/id.png" group-title="LIVE | MEXICO 2MG",DISCOVERY ID SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57586
+#EXTINF:-1 tvg-ID="discoverykids.mx" tvg-name="DISCOVERY KIDS SD" tvg-logo="http://listado.16mb.com/logosj/dkids.png" group-title="LIVE | MEXICO 2MG",DISCOVERY KIDS SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57603
+#EXTINF:-1 tvg-ID="discoveryturbo.mx" tvg-name="DISCOVERY TURBO SD" tvg-logo="http://listado.16mb.com/logosj/turbo.png" group-title="LIVE | MEXICO 2MG",DISCOVERY TURBO SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57604
+#EXTINF:-1 tvg-ID="disneychannel.mx" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://listado.16mb.com/logosj/disneychannel.png" group-title="LIVE | MEXICO 2MG",DISNEY CHANNEL SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57601
+#EXTINF:-1 tvg-ID="disneyjunior.mx" tvg-name="DISNEY JR SD" tvg-logo="http://listado.16mb.com/logosj/disneyjr.png" group-title="LIVE | MEXICO 2MG",DISNEY JR SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57602
+#EXTINF:-1 tvg-ID="eentertainment.mx" tvg-name="E! SD" tvg-logo="http://listado.16mb.com/logosj/e!.png" group-title="LIVE | MEXICO 2MG",E! SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57600
+#EXTINF:-1 tvg-ID="elgourmet.mx" tvg-name="EL GOURMET SD" tvg-logo="http://listado.16mb.com/logosj/gourmet.png" group-title="LIVE | MEXICO 2MG",EL GOURMET SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57594
+#EXTINF:-1 tvg-ID="espn2.mx" tvg-name="ESPN 2 SD" tvg-logo="http://listado.16mb.com/logosj/espn2.png" group-title="LIVE | MEXICO 2MG",ESPN 2 SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57761
+#EXTINF:-1 tvg-ID="espn3.mx" tvg-name="ESPN 3 SD" tvg-logo="http://listado.16mb.com/logosj/espn3.png" group-title="LIVE | MEXICO 2MG",ESPN 3 SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57762
+#EXTINF:-1 tvg-ID="espn.us" tvg-name="ESPN EXTRA SD" tvg-logo="http://listado.16mb.com/logosj/espnplus.png" group-title="LIVE | MEXICO 2MG",ESPN EXTRA SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57599
+#EXTINF:-1 tvg-ID="espnlatin.mx" tvg-name="ESPN SD" tvg-logo="http://listado.16mb.com/logosj/espn.png" group-title="LIVE | MEXICO 2MG",ESPN SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57760
+#EXTINF:-1 tvg-ID="lasestrellas.mx" tvg-name="ESTRELLAS HD*" tvg-logo="http://listado.16mb.com/logosj/estrellas.png" group-title="LIVE | MEXICO 2MG",ESTRELLAS HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/76113
+#EXTINF:-1 tvg-ID="europaeuropa.mx" tvg-name="EUROPA EUROPA SD" tvg-logo="http://listado.16mb.com/logosj/europa.png" group-title="LIVE | MEXICO 2MG",EUROPA EUROPA SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57598
+#EXTINF:-1 tvg-ID="I272.47403.schedulesdirect.org" tvg-name="EXA TV SD" tvg-logo="http://listado.16mb.com/logosj/exatv.png" group-title="LIVE | MEXICO 2MG",EXA TV SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57597
+#EXTINF:-1 tvg-ID="filmandarts.mx" tvg-name="FILM & ARTS SD" tvg-logo="http://listado.16mb.com/logosj/filmart.png" group-title="LIVE | MEXICO 2MG",FILM & ARTS SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57596
+#EXTINF:-1 tvg-ID="fx.mx" tvg-name="FX SD" tvg-logo="http://listado.16mb.com/logosj/fx.png" group-title="LIVE | MEXICO 2MG",FX SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57595
+#EXTINF:-1 tvg-ID="hbo2.mx" tvg-name="HBO 2 SD" tvg-logo="http://listado.16mb.com/logosj/hbo2.png" group-title="LIVE | MEXICO 2MG",HBO 2 SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57752
+#EXTINF:-1 tvg-ID="hbofamily.mx" tvg-name="HBO FAMILY SD" tvg-logo="http://listado.16mb.com/logosj/hbofamily.png" group-title="LIVE | MEXICO 2MG",HBO FAMILY SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57750
+#EXTINF:-1 tvg-ID="hbomundi.mx" tvg-name="HBO MUNDI SD" tvg-logo="http://listado.16mb.com/logosj/hbomundi.png" group-title="LIVE | MEXICO 2MG",HBO MUNDI SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57592
+#EXTINF:-1 tvg-ID="hboplus.mx" tvg-name="HBO PLUS SD" tvg-logo="http://listado.16mb.com/logosj/hboplus.png" group-title="LIVE | MEXICO 2MG",HBO PLUS SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57751
+#EXTINF:-1 tvg-ID="hbo.mx" tvg-name="HBO SD" tvg-logo="http://listado.16mb.com/logosj/hbo.png" group-title="LIVE | MEXICO 2MG",HBO SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57593
+#EXTINF:-1 tvg-ID="hbosignature.mx" tvg-name="HBO SIGNATURE SD" tvg-logo="http://listado.16mb.com/logosj/hbosignature.png" group-title="LIVE | MEXICO 2MG",HBO SIGNATURE SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57591
+#EXTINF:-1 tvg-ID="hboxtreme.mx" tvg-name="HBO XTREME SD" tvg-logo="http://listado.16mb.com/logosj/hboxtreme.png" group-title="LIVE | MEXICO 2MG",HBO XTREME SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57780
+#EXTINF:-1 tvg-ID="I362.34887.schedulesdirect.org" tvg-name="HBO XTREME SD (D)" tvg-logo="http://listado.16mb.com/logosj/hboxtreme.png" group-title="LIVE | MEXICO 2MG",HBO XTREME SD (D)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42576
+#EXTINF:-1 tvg-ID="holatv.co" tvg-name="HOLA TV SD" tvg-logo="http://listado.16mb.com/logosj/holatv.png" group-title="LIVE | MEXICO 2MG",HOLA TV SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57588
+#EXTINF:-1 tvg-ID="htv.co" tvg-name="HTV SD" tvg-logo="http://listado.16mb.com/logosj/htv.png" group-title="LIVE | MEXICO 2MG",HTV SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57587
+#EXTINF:-1 tvg-ID="isat.mx" tvg-name="I-SAT SD" tvg-logo="http://listado.16mb.com/logosj/isat.png" group-title="LIVE | MEXICO 2MG",I-SAT SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57744
+#EXTINF:-1 tvg-ID="isat.mx" tvg-name="I-SAT SD (D)" tvg-logo="http://listado.16mb.com/logosj/isat.png" group-title="LIVE | MEXICO 2MG",I-SAT SD (D)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42541
+#EXTINF:-1 tvg-ID="I3.101096.schedulesdirect.org" tvg-name="IMAGEN TV SD" tvg-logo="http://listado.16mb.com/logosj/imagentv.png" group-title="LIVE | MEXICO 2MG",IMAGEN TV SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57585
+#EXTINF:-1 tvg-ID="ingeniotv.mx" tvg-name="INGENIO TV SD" tvg-logo="http://listado.16mb.com/logosj/ingenio.png" group-title="LIVE | MEXICO 2MG",INGENIO TV SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57743
+#EXTINF:-1 tvg-ID="I480.87915.schedulesdirect.org" tvg-name="INGENIO TV SD (D)" tvg-logo="http://listado.16mb.com/logosj/ingenio.png" group-title="LIVE | MEXICO 2MG",INGENIO TV SD (D)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42548
+#EXTINF:-1 tvg-ID="I2.16461.schedulesdirect.org" tvg-name="LAS ESTRELLAS SD (S) #OP.3 ENCODER" tvg-logo="http://listado.16mb.com/logosj/estrellas.png" group-title="LIVE | MEXICO 2MG",LAS ESTRELLAS SD (S) #OP.3 ENCODER
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/24288
+#EXTINF:-1 tvg-ID="lifetime.mx" tvg-name="LIFETIME SD" tvg-logo="http://listado.16mb.com/logosj/lifetime.png" group-title="LIVE | MEXICO 2MG",LIFETIME SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57781
+#EXTINF:-1 tvg-ID="mileniotelevision.mx" tvg-name="MILENIO TV SD" tvg-logo="http://listado.16mb.com/logosj/milenio.png" group-title="LIVE | MEXICO 2MG",MILENIO TV SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57763
+#EXTINF:-1 tvg-ID="I424.120767.schedulesdirect.org" tvg-name="MTV 00 SD" tvg-logo="http://listado.16mb.com/logosj/mtv00.png" group-title="LIVE | MEXICO 2MG",MTV 00 SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57581
+#EXTINF:-1 tvg-ID="I427.24214.schedulesdirect.org" tvg-name="MTV HITS SD" tvg-logo="http://listado.16mb.com/logosj/mtvhits.png" group-title="LIVE | MEXICO 2MG",MTV HITS SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57580
+#EXTINF:-1 tvg-ID="mtv.mx" tvg-name="MTV SD" tvg-logo="http://listado.16mb.com/logosj/mtv.png" group-title="LIVE | MEXICO 2MG",MTV SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57582
+#EXTINF:-1 tvg-ID="multicinema.mx" tvg-name="MULTICINEMA SD" tvg-logo="http://listado.16mb.com/logosj/mc.png" group-title="LIVE | MEXICO 2MG",MULTICINEMA SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57584
+#EXTINF:-1 tvg-ID="multimedios.mx" tvg-name="MULTIMEDIOS SD" tvg-logo="http://listado.16mb.com/logosj/multimedios.png" group-title="LIVE | MEXICO 2MG",MULTIMEDIOS SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57579
+#EXTINF:-1 tvg-ID="multipremier.mx" tvg-name="MULTIPREMIER SD" tvg-logo="http://listado.16mb.com/logosj/mp.png" group-title="LIVE | MEXICO 2MG",MULTIPREMIER SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57583
+#EXTINF:-1 tvg-ID="mvstv.mx" tvg-name="MVS TV SD " tvg-logo="http://listado.16mb.com/logosj/mvs.png" group-title="LIVE | MEXICO 2MG",MVS TV SD 
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57578
+#EXTINF:-1 tvg-ID="natgeo.mx" tvg-name="NATGEO SD" tvg-logo="http://listado.16mb.com/logosj/natgeo.png" group-title="LIVE | MEXICO 2MG",NATGEO SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57766
+#EXTINF:-1 tvg-ID="I156.32281.schedulesdirect.org" tvg-name="NBA MEXICO SD" tvg-logo="http://listado.16mb.com/logosj/nba.png" group-title="LIVE | MEXICO 2MG",NBA MEXICO SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57774
+#EXTINF:-1 tvg-ID="I212.34710.zap2it.com" tvg-name="NFL MEXICO SD" tvg-logo="http://listado.16mb.com/logosj/nfl.png" group-title="LIVE | MEXICO 2MG",NFL MEXICO SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57775
+#EXTINF:-1 tvg-ID="nickjr.mx" tvg-name="NICK JR SD" tvg-logo="http://listado.16mb.com/logosj/nickjr.png" group-title="LIVE | MEXICO 2MG",NICK JR SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57765
+#EXTINF:-1 tvg-ID="nickelodeon.mx" tvg-name="NICK SD" tvg-logo="http://listado.16mb.com/logosj/nick.png" group-title="LIVE | MEXICO 2MG",NICK SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57577
+#EXTINF:-1 tvg-ID="nickelodeon.mx" tvg-name="NICKELODEON SD" tvg-logo="http://listado.16mb.com/logosj/nick.png" group-title="LIVE | MEXICO 2MG",NICKELODEON SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57764
+#EXTINF:-1 tvg-ID="canalonceninos.mx" tvg-name="ONCE NIÑOS SD" tvg-logo="http://listado.16mb.com/logosj/onceninos.png" group-title="LIVE | MEXICO 2MG",ONCE NIÑOS SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57745
+#EXTINF:-1 tvg-ID="canalonce.mx" tvg-name="ONCE SD" tvg-logo="http://listado.16mb.com/logosj/once.png" group-title="LIVE | MEXICO 2MG",ONCE SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57767
+#EXTINF:-1 tvg-ID="paramountchannel.mx" tvg-name="PARAMOUNT SD" tvg-logo="http://listado.16mb.com/logosj/paramount.png" group-title="LIVE | MEXICO 2MG",PARAMOUNT SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57576
+#EXTINF:-1 tvg-ID="I184.69367.schedulesdirect.org" tvg-name="RT SD" tvg-logo="http://listado.16mb.com/logosj/rt.png" group-title="LIVE | MEXICO 2MG",RT SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57768
+#EXTINF:-1 tvg-ID="sonyentertainmenttv.mx" tvg-name="SONY SD" tvg-logo="http://listado.16mb.com/logosj/sony.png" group-title="LIVE | MEXICO 2MG",SONY SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57776
+#EXTINF:-1 tvg-ID="space.mx" tvg-name="SPACE SD" tvg-logo="http://listado.16mb.com/logosj/space.png" group-title="LIVE | MEXICO 2MG",SPACE SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57769
+#EXTINF:-1 tvg-ID="fox.mx" tvg-name="STAR SD" tvg-logo="http://listado.16mb.com/logosj/star.png" group-title="LIVE | MEXICO 2MG",STAR SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57770
+#EXTINF:-1 tvg-ID="studiouniversal.mx" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="http://listado.16mb.com/logosj/studiouniversal.png" group-title="LIVE | MEXICO 2MG",STUDIO UNIVERSAL SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57574
+#EXTINF:-1 tvg-ID="syfy.mx" tvg-name="SYFY SD" tvg-logo="http://listado.16mb.com/logosj/syfy.png" group-title="LIVE | MEXICO 2MG",SYFY SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57746
+#EXTINF:-1 tvg-ID="tbs.mx" tvg-name="TBS SD" tvg-logo="http://listado.16mb.com/logosj/tbs.png" group-title="LIVE | MEXICO 2MG",TBS SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57782
+#EXTINF:-1 tvg-ID="teleformula.mx" tvg-name="TELEFORMULA SD" tvg-logo="http://listado.16mb.com/logosj/teleformula.png" group-title="LIVE | MEXICO 2MG",TELEFORMULA SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57747
+#EXTINF:-1 tvg-ID="I636.74420.schedulesdirect.org" tvg-name="TLC SD" tvg-logo="http://listado.16mb.com/logosj/tlc.png" group-title="LIVE | MEXICO 2MG",TLC SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57783
+#EXTINF:-1 tvg-ID="tnt.mx" tvg-name="TNT SD" tvg-logo="http://listado.16mb.com/logosj/tnt.png" group-title="LIVE | MEXICO 2MG",TNT SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57777
+#EXTINF:-1 tvg-ID="tntseries.mx" tvg-name="TNT SE SD" tvg-logo="http://listado.16mb.com/logosj/tnt.png" group-title="LIVE | MEXICO 2MG",TNT SE SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57771
+#EXTINF:-1 tvg-ID="tvcdeportes.mx" tvg-name="TVC DEPORTES SD" tvg-logo="http://listado.16mb.com/logosj/tvcd.png" group-title="LIVE | MEXICO 2MG",TVC DEPORTES SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57778
+#EXTINF:-1 tvg-ID="teveunam.mx" tvg-name="UNAM SD" tvg-logo="http://listado.16mb.com/logosj/unam.png" group-title="LIVE | MEXICO 2MG",UNAM SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57748
+#EXTINF:-1 tvg-ID="universalchannel.mx" tvg-name="UNIVERSAL SD" tvg-logo="http://listado.16mb.com/logosj/universalchannel.png" group-title="LIVE | MEXICO 2MG",UNIVERSAL SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57772
+#EXTINF:-1 tvg-ID="aztecauno.mx" tvg-name="UNO SD" tvg-logo="http://listado.16mb.com/logosj/canaluno.png" group-title="LIVE | MEXICO 2MG",UNO SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57784
+#EXTINF:-1 tvg-ID="I696.25615.schedulesdirect.org" tvg-name="VIDEO ROLA SD" tvg-logo="http://listado.16mb.com/logosj/videorola.png" group-title="LIVE | MEXICO 2MG",VIDEO ROLA SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57749
+#EXTINF:-1 tvg-ID="warnerchannel.mx" tvg-name="WARNER SD MEXICO" tvg-logo="http://listado.16mb.com/logosj/warner.png" group-title="LIVE | MEXICO 2MG",WARNER SD MEXICO
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42599
+#EXTINF:-1 tvg-ID="warnerchannel.mx" tvg-name="WARNER TV SD" tvg-logo="http://listado.16mb.com/logosj/warner.png" group-title="LIVE | MEXICO 2MG",WARNER TV SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57773
+#EXTINF:-1 tvg-ID="I683.16799.schedulesdirect.org" tvg-name="UNIVERSAL CHANNEL HD*" tvg-logo="http://listado.16mb.com/logosj/universalchannel.png" group-title="LIVE | MEXICO 2MG",UNIVERSAL CHANNEL HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/78595
+#EXTINF:-1 tvg-ID="history2.mx" tvg-name="HISTORY 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_(2022).svg/250px-History2_logo_(2022).svg.png" group-title="LIVE | MEXICO 2MG",HISTORY 2 
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/78971
+#EXTINF:-1 tvg-ID="historychannel.mx" tvg-name="HISTORYY SD" tvg-logo="https://e1.pngegg.com/pngimages/198/296/png-clipart-tv-channel-icons-history-black-black-history-logo-thumbnail.png" group-title="LIVE | MEXICO 2MG",HISTORYY SD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/78972
+#EXTINF:-1 tvg-ID="ext" tvg-name="ARTS" tvg-logo="https://w7.pngwing.com/pngs/626/526/png-transparent-television-logo-creativity-creative-tv-template-poster-creative-artwork.png" group-title="LIVE | MEXICO 2MG",ARTS
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/78976
+#EXTINF:-1 tvg-ID="5nacional.mx" tvg-name="CINCO HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="LIVE | MEXICO 2MG",CINCO HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/79312
+#EXTINF:-1 tvg-ID="tycsports.us" tvg-name="TYCSP" tvg-logo="https://e7.pngegg.com/pngimages/290/978/png-clipart-logo-tyc-sports-brand-trademark-mosaic-blue-text.png" group-title="LIVE | MEXICO 2MG",TYCSP
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/81728
+#EXTINF:-1 tvg-ID="pxsports.mx" tvg-name="PX SPORTS" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_09/large.596511879_PXSportsalternativo.png.7c96a75b691f3dbd968affff7f3f87ee.png" group-title="LIVE | MEXICO 2MG",PX SPORTS
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/81729
+#EXTINF:-1 tvg-ID="outdoorchannel.us" tvg-name="OUTDOOR " tvg-logo="https://w7.pngwing.com/pngs/963/740/png-transparent-logo-outdoor-channel-high-definition-television-television-channel-others-television-angle-text.png" group-title="LIVE | MEXICO 2MG",OUTDOOR 
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/81730
+#EXTINF:-1 tvg-ID="gameshownetwork.us" tvg-name="GAME TOON" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/gametoon_HD_MGC.png" group-title="LIVE | MEXICO 2MG",GAME TOON
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/81731
+#EXTINF:-1 tvg-ID="555" tvg-name="FAST & FUN BOX" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=72&h=54&tok=a4feb9&media=https://www.mundoplus.tv/wiki/_media/logos/fastfunbox.png" group-title="LIVE | MEXICO 2MG",FAST & FUN BOX
+https://www.mundoplus.tv/wiki/_media/logos/fastfunbox.png" group-title="LIVE | MEXICO 2MG",FAST & FUN BOX
+#EXTINF:-1 tvg-ID="amastv.mx" tvg-name="A+ HD" tvg-logo="http://listado.16mb.com/logosj/amas.png" group-title="LIVE | MEXICO",A+ HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42551
+#EXTINF:-1 tvg-ID="I10.75278.schedulesdirect.org" tvg-name="ADN 40 HD (R)" tvg-logo="http://listado.16mb.com/logosj/adn40.png" group-title="LIVE | MEXICO",ADN 40 HD (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42549
+#EXTINF:-1 tvg-ID="I24.90309.schedulesdirect.org" tvg-name="ANTENA 3 HD" tvg-logo="http://listado.16mb.com/logosj/antena3.png" group-title="LIVE | MEXICO",ANTENA 3 HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42550
+#EXTINF:-1 tvg-ID="antena3.mx" tvg-name="ANTENA 3 HD K" tvg-logo="http://listado.16mb.com/logosj/antena3.png" group-title="LIVE | MEXICO",ANTENA 3 HD K
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/55037
+#EXTINF:-1 tvg-ID="axn.mx" tvg-name="AXN HD (S)" tvg-logo="http://listado.16mb.com/logosj/axn.png" group-title="LIVE | MEXICO",AXN HD (S)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/13810
+#EXTINF:-1 tvg-ID="I79.72534.schedulesdirect.org" tvg-name="AXN HD MEXICO ENCODER (K)" tvg-logo="http://listado.16mb.com/logosj/axn.png" group-title="LIVE | MEXICO",AXN HD MEXICO ENCODER (K)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42587
+#EXTINF:-1 tvg-ID="azcorazon.mx" tvg-name="AZ CORAZON HD (R)" tvg-logo="http://listado.16mb.com/logosj/azcorazon.png" group-title="LIVE | MEXICO",AZ CORAZON HD (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42531
+#EXTINF:-1 tvg-ID="az.cinema.cl" tvg-name="AZCINEMA HD K" tvg-logo="http://listado.16mb.com/logosj/azcinema.png" group-title="LIVE | MEXICO",AZCINEMA HD K
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42530
+#EXTINF:-1 tvg-ID="aztecamundo.mx" tvg-name="AZMUNDO HD (R)" tvg-logo="http://listado.16mb.com/logosj/azmundo.png" group-title="LIVE | MEXICO",AZMUNDO HD (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42529
+#EXTINF:-1 tvg-ID="aztecauno.mx" tvg-name="AZTACA UNO CHIHUAHUA " tvg-logo="http://listado.16mb.com/logosj/azteca1.png" group-title="LIVE | MEXICO",AZTACA UNO CHIHUAHUA 
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/71493
+#EXTINF:-1 tvg-ID="azteca7.mx" tvg-name="AZTECA 7 - HD ENCODER" tvg-logo="http://listado.16mb.com/logosj/azteca7.png" group-title="LIVE | MEXICO",AZTECA 7 - HD ENCODER
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28954
+#EXTINF:-1 tvg-ID="azteca7.mx" tvg-name="AZTECA 7 HD*" tvg-logo="http://listado.16mb.com/logosj/azteca7.png" group-title="LIVE | MEXICO",AZTECA 7 HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/61147
+#EXTINF:-1 tvg-ID="I801.104893.schedulesdirect.org" tvg-name="AZTECA UNO -2 HORAS (R)" tvg-logo="http://listado.16mb.com/logosj/azteca1.png" group-title="LIVE | MEXICO",AZTECA UNO -2 HORAS (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42527
+#EXTINF:-1 tvg-ID="aztecauno.mx" tvg-name="AZTECA UNO HD" tvg-logo="http://listado.16mb.com/logosj/azteca1.png" group-title="LIVE | MEXICO",AZTECA UNO HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42526
+#EXTINF:-1 tvg-ID="canal-4.mx" tvg-name="CANAL 4 HD GDL*" tvg-logo="http://listado.16mb.com/logosj/canal4.png" group-title="LIVE | MEXICO",CANAL 4 HD GDL
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42537
+#EXTINF:-1 tvg-ID="xhudgcanal44.es" tvg-name="CANAL 44 (CIUDAD JUAREZ) (B)" tvg-logo="http://listado.16mb.com/logosj/canal44.png" group-title="LIVE | MEXICO",CANAL 44 (CIUDAD JUAREZ) (B)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42554
+#EXTINF:-1 tvg-ID="canal5.mx" tvg-name="CANAL 5 (1920P / 29 FPS) (S)" tvg-logo="http://listado.16mb.com/logosj/canal5.png" group-title="LIVE | MEXICO",CANAL 5 (1920P / 29 FPS) (S)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/13819
+#EXTINF:-1 tvg-ID="canal5.mx" tvg-name="CANAL 5 - XHGC ENCODER" tvg-logo="http://listado.16mb.com/logosj/canal5.png" group-title="LIVE | MEXICO",CANAL 5 - XHGC ENCODER
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28955
+#EXTINF:-1 tvg-ID="multimedios.mx" tvg-name="CANAL 6 MULTIMEDIOS GUADALAJARA (R)" tvg-logo="http://listado.16mb.com/logosj/multimedios.png" group-title="LIVE | MEXICO",CANAL 6 MULTIMEDIOS GUADALAJARA (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42540
+#EXTINF:-1 tvg-ID="ext" tvg-name="CANAL 66 MEXICALI" tvg-logo="http://listado.16mb.com/logosj/canal66.png" group-title="LIVE | MEXICO",CANAL 66 MEXICALI
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/53551
+#EXTINF:-1 tvg-ID="cinelatino.mx" tvg-name="CINE LATINO (J)" tvg-logo="http://listado.16mb.com/logosj/cinelatino.png" group-title="LIVE | MEXICO",CINE LATINO (J)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/73272
+#EXTINF:-1 tvg-ID="cinemax.mx" tvg-name="CINEMAX HD" tvg-logo="http://listado.16mb.com/logosj/cinemax.png" group-title="LIVE | MEXICO",CINEMAX HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42585
+#EXTINF:-1 tvg-ID="I174.15192.schedulesdirect.org" tvg-name="CNN INT (R)" tvg-logo="http://listado.16mb.com/logosj/cnn.png" group-title="LIVE | MEXICO",CNN INT (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42555
+#EXTINF:-1 tvg-ID="I837.74906.schedulesdirect.org" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://listado.16mb.com/logosj/comedycentral.png" group-title="LIVE | MEXICO",COMEDY CENTRAL HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42588
+#EXTINF:-1 tvg-ID="comedycentral.mx" tvg-name="COMEDY CENTRAL HD (R)" tvg-logo="http://listado.16mb.com/logosj/comedycentral.png" group-title="LIVE | MEXICO",COMEDY CENTRAL HD (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/25105
+#EXTINF:-1 tvg-ID="CO - Concert Channel" tvg-name="CONCERT CHANNEL FHD (ENCODER ) (1920P / 29 FPS)" tvg-logo="http://listado.16mb.com/logosj/concert.png" group-title="LIVE | MEXICO",CONCERT CHANNEL FHD (ENCODER ) (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28816
+#EXTINF:-1 tvg-ID="distritocomedia.mx" tvg-name="DISTRITO COMEDIA ENCODER (EX)" tvg-logo="http://listado.16mb.com/logosj/distritocomedia.png" group-title="LIVE | MEXICO",DISTRITO COMEDIA ENCODER (EX)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28960
+#EXTINF:-1 tvg-ID="lasestrellas.mx" tvg-name="LAS ESTRELLAS" tvg-logo="http://listado.16mb.com/logosj/estrellas.png" group-title="LIVE | MEXICO",LAS ESTRELLAS
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28930
+#EXTINF:-1 tvg-ID="europaeuropa.mx" tvg-name="EUROPA EUROPA (C)" tvg-logo="http://listado.16mb.com/logosj/europa.png" group-title="LIVE | MEXICO",EUROPA EUROPA (C)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42539
+#EXTINF:-1 tvg-ID="forotv.mx" tvg-name="FORO TV HD (S)" tvg-logo="http://listado.16mb.com/logosj/forotv.png" group-title="LIVE | MEXICO",FORO TV HD (S)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42535
+#EXTINF:-1 tvg-ID="forotv.mx" tvg-name="FORO TV HD OP.2 (R)" tvg-logo="http://listado.16mb.com/logosj/forotv.png" group-title="LIVE | MEXICO",FORO TV HD OP.2 (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42536
+#EXTINF:-1 tvg-ID="galatv9nacional.mx" tvg-name="GALA TV" tvg-logo="http://listado.16mb.com/logosj/galatv.png" group-title="LIVE | MEXICO",GALA TV
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42557
+#EXTINF:-1 tvg-ID="golden.mx" tvg-name="GOLDEN MEXICO ENCODER (EX)" tvg-logo="http://listado.16mb.com/logosj/golden.png" group-title="LIVE | MEXICO",GOLDEN MEXICO ENCODER (EX)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28979
+#EXTINF:-1 tvg-ID="elgourmet.mx" tvg-name="GOURMET (S)" tvg-logo="http://listado.16mb.com/logosj/gourmet.png" group-title="LIVE | MEXICO",GOURMET (S)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42565
+#EXTINF:-1 tvg-ID="hboplus.la" tvg-name="HBO + HD (R)" tvg-logo="http://listado.16mb.com/logosj/hboplus.png" group-title="LIVE | MEXICO",HBO + HD (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42574
+#EXTINF:-1 tvg-ID="hbo2.mx" tvg-name="HBO 2 HD LATINO (R)" tvg-logo="http://listado.16mb.com/logosj/hbo2.png" group-title="LIVE | MEXICO",HBO 2 HD LATINO (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42579
+#EXTINF:-1 tvg-ID="hbofamily.mx" tvg-name="HBO FAMILY HD ENCODER" tvg-logo="http://listado.16mb.com/logosj/hbofamily.png" group-title="LIVE | MEXICO",HBO FAMILY HD ENCODER
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42578
+#EXTINF:-1 tvg-ID="hbomundi.mx" tvg-name="HBO MUNDI ENCODER (K)" tvg-logo="http://listado.16mb.com/logosj/hbomundi.png" group-title="LIVE | MEXICO",HBO MUNDI ENCODER (K)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/55025
+#EXTINF:-1 tvg-ID="hbopo.mx" tvg-name="HBO POP HD MEXICO (R)" tvg-logo="http://listado.16mb.com/logosj/hbopop.png" group-title="LIVE | MEXICO",HBO POP HD MEXICO (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42575
+#EXTINF:-1 tvg-ID="I361.34887.schedulesdirect.org" tvg-name="HBO XTREME HD" tvg-logo="http://listado.16mb.com/logosj/hboxtreme.png" group-title="LIVE | MEXICO",HBO XTREME HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42577
+#EXTINF:-1 tvg-ID="holatv.co" tvg-name="HOLA TV HD (C)" tvg-logo="http://listado.16mb.com/logosj/holatv.png" group-title="LIVE | MEXICO",HOLA TV HD (C)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42547
+#EXTINF:-1 tvg-ID="isat.mx" tvg-name="I-SAT MEXICO" tvg-logo="http://listado.16mb.com/logosj/isat.png" group-title="LIVE | MEXICO",I-SAT MEXICO
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42558
+#EXTINF:-1 tvg-ID="imagentv.mx" tvg-name="IMAGEN ENCODER" tvg-logo="http://listado.16mb.com/logosj/imagentv.png" group-title="LIVE | MEXICO",IMAGEN ENCODER
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28956
+#EXTINF:-1 tvg-ID="imagentv.mx" tvg-name="IMAGEN TELEVISION MTY (EX)" tvg-logo="http://listado.16mb.com/logosj/imagentv.png" group-title="LIVE | MEXICO",IMAGEN TELEVISION MTY (EX)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42545
+#EXTINF:-1 tvg-ID="I2.16461.schedulesdirect.org" tvg-name="LAS ESTRELLAS (KI)" tvg-logo="http://listado.16mb.com/logosj/estrellas.png" group-title="LIVE | MEXICO",LAS ESTRELLAS (KI)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/13821
+#EXTINF:-1 tvg-ID="I2.16461.schedulesdirect.org" tvg-name="LAS ESTRELLAS (S) #OP.2" tvg-logo="http://listado.16mb.com/logosj/estrellas.png" group-title="LIVE | MEXICO",LAS ESTRELLAS (S) #OP.2
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/25134
+#EXTINF:-1 tvg-ID="xhtm.es" tvg-name="LAS ESTRELLAS -1 HORA" tvg-logo="http://listado.16mb.com/logosj/estrellas.png" group-title="LIVE | MEXICO",LAS ESTRELLAS -1 HORA
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/71494
+#EXTINF:-1 tvg-ID="lifetime.mx" tvg-name="LIFETIME HD (S)(EX)" tvg-logo="http://listado.16mb.com/logosj/lifetime.png" group-title="LIVE | MEXICO",LIFETIME HD (S)(EX)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42604
+#EXTINF:-1 tvg-ID="I122.11097.schedulesdirect.org" tvg-name="MEXIQUENSE HD (R)" tvg-logo="http://listado.16mb.com/logosj/mexiquense.png" group-title="LIVE | MEXICO",MEXIQUENSE HD (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42563
+#EXTINF:-1 tvg-ID="mileniotelevision.mx" tvg-name="MILENIO TV HD" tvg-logo="http://listado.16mb.com/logosj/milenio.png" group-title="LIVE | MEXICO",MILENIO TV HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42564
+#EXTINF:-1 tvg-ID="I419.107890.schedulesdirect.org" tvg-name="MORBIDO TV (R)" tvg-logo="http://listado.16mb.com/logosj/morbido.png" group-title="LIVE | MEXICO",MORBIDO TV (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42562
+#EXTINF:-1 tvg-ID="multimedios.mx" tvg-name="MULLTIMEDIO TV HD" tvg-logo="http://listado.16mb.com/logosj/multimedios.png" group-title="LIVE | MEXICO",MULLTIMEDIO TV HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42560
+#EXTINF:-1 tvg-ID="multimedios.mx" tvg-name="MULTIMEDIO LAGUNA" tvg-logo="http://listado.16mb.com/logosj/multimedios.png" group-title="LIVE | MEXICO",MULTIMEDIO LAGUNA
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42543
+#EXTINF:-1 tvg-ID="multimedios.mx" tvg-name="MULTIMEDIO LAGUNA HD (EX)" tvg-logo="http://listado.16mb.com/logosj/multimedios.png" group-title="LIVE | MEXICO",MULTIMEDIO LAGUNA HD (EX)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42561
+#EXTINF:-1 tvg-ID="mvstv.mx" tvg-name="MVS TV (J)" tvg-logo="https://exa.tv/wp-content/themes/Exatv/img/mvstv.png" group-title="LIVE | MEXICO",MVS TV (J)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/73297
+#EXTINF:-1 tvg-ID="I447.36139.zap2it.com" tvg-name="ONCE TV" tvg-logo="http://listado.16mb.com/logosj/once.png" group-title="LIVE | MEXICO",ONCE TV
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42559
+#EXTINF:-1 tvg-ID="paramountchannel.mx" tvg-name="PARAMOUNT MEXICO ENCODER (K)" tvg-logo="http://listado.16mb.com/logosj/paramount.png" group-title="LIVE | MEXICO",PARAMOUNT MEXICO ENCODER (K)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28972
+#EXTINF:-1 tvg-ID="I444.61776.zap2it.com" tvg-name="PASION FHD (B)" tvg-logo="http://listado.16mb.com/logosj/pasiones.png" group-title="LIVE | MEXICO",PASION FHD (B)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/29276
+#EXTINF:-1 tvg-ID="rcn.co" tvg-name="RCN 416 L ENCODE (EX)" tvg-logo="http://listado.16mb.com/logosj/rcn.png" group-title="LIVE | MEXICO",RCN 416 L ENCODE (EX)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/57527
+#EXTINF:-1 tvg-ID="sonyentertainmenttv.mx" tvg-name="SONY MEXICO H.265 ENCODER OP.2" tvg-logo="http://listado.16mb.com/logosj/sony.png" group-title="LIVE | MEXICO",SONY MEXICO H.265 ENCODER OP.2
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28977
+#EXTINF:-1 tvg-ID="space.mx" tvg-name="SPACE HD (R)" tvg-logo="http://listado.16mb.com/logosj/space.png" group-title="LIVE | MEXICO",SPACE HD (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42586
+#EXTINF:-1 tvg-ID="I122.11097.schedulesdirect.org" tvg-name="STAR TVE HD (R)" tvg-logo="http://listado.16mb.com/logosj/tve.png" group-title="LIVE | MEXICO",STAR TVE HD (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42568
+#EXTINF:-1 tvg-ID="tbs.mx" tvg-name="TBS HD LATINO (H265)" tvg-logo="http://listado.16mb.com/logosj/tbs.png" group-title="LIVE | MEXICO",TBS HD LATINO (H265)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42592
+#EXTINF:-1 tvg-ID="tcm.la" tvg-name="TCM MEXICO" tvg-logo="http://listado.16mb.com/logosj/tcm.png" group-title="LIVE | MEXICO",TCM MEXICO
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42603
+#EXTINF:-1 tvg-ID="teleformula.mx" tvg-name="TELEFORMULA" tvg-logo="http://listado.16mb.com/logosj/teleformula.png" group-title="LIVE | MEXICO",TELEFORMULA
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42570
+#EXTINF:-1 tvg-ID="xhpdt.mx" tvg-name="TELEVISA PUEBLA (R)" tvg-logo="http://listado.16mb.com/logosj/televisa.png" group-title="LIVE | MEXICO",TELEVISA PUEBLA (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42546
+#EXTINF:-1 tvg-ID="I204.37232.schedulesdirect.org" tvg-name="TLNOVELAS MEXCIO (C)" tvg-logo="http://listado.16mb.com/logosj/tlnovelas.png" group-title="LIVE | MEXICO",TLNOVELAS MEXCIO (C)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42572
+#EXTINF:-1 tvg-ID="tnt.mx" tvg-name="TNT MEXICO ENCODER" tvg-logo="http://listado.16mb.com/logosj/tnt.png" group-title="LIVE | MEXICO",TNT MEXICO ENCODER
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28975
+#EXTINF:-1 tvg-ID="tntseries.mx" tvg-name="TNT SERIES (J)" tvg-logo="https://w7.pngwing.com/pngs/220/98/png-transparent-logo-much-tnt-series-latin-america-design-television-text-logo.png" group-title="LIVE | MEXICO",TNT SERIES (J)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/73275
+#EXTINF:-1 tvg-ID="I242.10153.schedulesdirect.org" tvg-name="TRUTV HD" tvg-logo="http://listado.16mb.com/logosj/trutv.png" group-title="LIVE | MEXICO",TRUTV HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42569
+#EXTINF:-1 tvg-ID="unicable.mx" tvg-name="UNICABLE HD (R)" tvg-logo="http://listado.16mb.com/logosj/unicable.png" group-title="LIVE | MEXICO",UNICABLE HD (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/42542
+#EXTINF:-1 tvg-ID="universalchannel.mx" tvg-name="UNIVERSAL CHANNEL HD K" tvg-logo="http://listado.16mb.com/logosj/universalchannel.png" group-title="LIVE | MEXICO",UNIVERSAL CHANNEL HD K
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/62142
+#EXTINF:-1 tvg-ID="warnerchannel.mx" tvg-name="WARNER ENCODER" tvg-logo="http://listado.16mb.com/logosj/warner.png" group-title="LIVE | MEXICO",WARNER ENCODER
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28978
+#EXTINF:-1 tvg-ID="afizzionados.mx" tvg-name="AFIIZZIONADOS FHD (MX) (R)" tvg-logo="http://listado.16mb.com/logosj/azzi.png" group-title="LIVE | DEPORTES",AFIIZZIONADOS FHD (MX) (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/25043
+#EXTINF:-1 tvg-ID="barcatv.sp" tvg-name="BARCA TV" tvg-logo="http://listado.16mb.com/logosj/barca.png" group-title="LIVE | DEPORTES",BARCA TV
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/17019
+#EXTINF:-1 tvg-ID="ext" tvg-name="BEIN SPORTS" tvg-logo="http://listado.16mb.com/logosj/bein.png" group-title="LIVE | DEPORTES",BEIN SPORTS
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/81736
+#EXTINF:-1 tvg-ID="beinsportespanol.us" tvg-name="BEIN SPORTS XTRA EN ESPAÑOL" tvg-logo="http://listado.16mb.com/logosj/bein.png" group-title="LIVE | DEPORTES",BEIN SPORTS XTRA EN ESPAÑOL
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/81734
+#EXTINF:-1 tvg-ID="ext" tvg-name="CANAL LUCHA LIBRE AAA HD*" tvg-logo="http://listado.16mb.com/logosj/aaa.png" group-title="LIVE | DEPORTES",CANAL LUCHA LIBRE AAA HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/55896
+#EXTINF:-1 tvg-ID="I122.11097.schedulesdirect.org" tvg-name="CLARO SPORTS ENCODER K" tvg-logo="http://listado.16mb.com/logosj/clarosports.png" group-title="LIVE | DEPORTES",CLARO SPORTS ENCODER K
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/18840
+#EXTINF:-1 tvg-ID="espnlatin.mx" tvg-name="ESPN 1 FHD (SUR) " tvg-logo="http://listado.16mb.com/logosj/espn.png" group-title="LIVE | DEPORTES",ESPN 1 FHD (SUR) 
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/13792
+#EXTINF:-1 tvg-ID="I122.11097.schedulesdirect.org" tvg-name="ESPN 2 HD (SUR)" tvg-logo="http://listado.16mb.com/logosj/espn2.png" group-title="LIVE | DEPORTES",ESPN 2 HD (SUR)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/23568
+#EXTINF:-1 tvg-ID="I249.96876.schedulesdirect.org" tvg-name="ESPN 2 SD (SUR)" tvg-logo="http://listado.16mb.com/logosj/espn2.png" group-title="LIVE | DEPORTES",ESPN 2 SD (SUR)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/23556
+#EXTINF:-1 tvg-ID="I257.79042.schedulesdirect.org" tvg-name="ESPN 3 FHD(ARG) (K)" tvg-logo="http://listado.16mb.com/logosj/espn3.png" group-title="LIVE | DEPORTES",ESPN 3 FHD(ARG) (K)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/23554
+#EXTINF:-1 tvg-ID="I257.79042.schedulesdirect.org" tvg-name="ESPN 3 SD (SUR) (S)" tvg-logo="http://listado.16mb.com/logosj/espn3.png" group-title="LIVE | DEPORTES",ESPN 3 SD (SUR) (S)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/23557
+#EXTINF:-1 tvg-ID="I122.11097.schedulesdirect.org" tvg-name="ESPN SD (SUR)" tvg-logo="http://listado.16mb.com/logosj/espn.png" group-title="LIVE | DEPORTES",ESPN SD (SUR)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/23555
+#EXTINF:-1 tvg-ID="foxdeportes.us" tvg-name="FOX DEPORTES USA (DTV)" tvg-logo="http://listado.16mb.com/logosj/foxsports.png" group-title="LIVE | DEPORTES",FOX DEPORTES USA (DTV)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/73711
+#EXTINF:-1 tvg-ID="foxsports.mx" tvg-name="FOX SPORTS (J)" tvg-logo="http://listado.16mb.com/logosj/foxsports.png" group-title="LIVE | DEPORTES",FOX SPORTS (J)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/73285
+#EXTINF:-1 tvg-ID="foxsports.mx" tvg-name="FOX SPORTS 1 HD  MEX (B)" tvg-logo="http://listado.16mb.com/logosj/foxsports.png" group-title="LIVE | DEPORTES",FOX SPORTS 1 HD  MEX (B)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/3040
+#EXTINF:-1 tvg-ID="foxsports.mx" tvg-name="FOX SPORTS 1 HD (MX) (R)" tvg-logo="http://listado.16mb.com/logosj/foxsports.png" group-title="LIVE | DEPORTES",FOX SPORTS 1 HD (MX) (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/23527
+#EXTINF:-1 tvg-ID="foxsports3.mx" tvg-name="FOX SPORTS 2" tvg-logo="http://listado.16mb.com/logosj/foxsports2.png" group-title="LIVE | DEPORTES",FOX SPORTS 2
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/73286
+#EXTINF:-1 tvg-ID="I297.71328.schedulesdirect.org" tvg-name="FOX SPORTS 2  SD (ARG) (R)" tvg-logo="http://listado.16mb.com/logosj/foxsports2.png" group-title="LIVE | DEPORTES",FOX SPORTS 2  SD (ARG) (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/23531
+#EXTINF:-1 tvg-ID="I122.11097.schedulesdirect.org" tvg-name="FOX SPORTS 2 FHD (SUR)" tvg-logo="http://listado.16mb.com/logosj/foxsports2.png" group-title="LIVE | DEPORTES",FOX SPORTS 2 FHD (SUR)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/13797
+#EXTINF:-1 tvg-ID="foxsports2.mx" tvg-name="FOX SPORTS 2 HD (MX)." tvg-logo="http://listado.16mb.com/logosj/foxsports2.png" group-title="LIVE | DEPORTES",FOX SPORTS 2 HD (MX).
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/23528
+#EXTINF:-1 tvg-ID="I122.11097.schedulesdirect.org" tvg-name="FOX SPORTS 3 FHD (SUR)" tvg-logo="http://listado.16mb.com/logosj/foxsports3.png" group-title="LIVE | DEPORTES",FOX SPORTS 3 FHD (SUR)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/13798
+#EXTINF:-1 tvg-ID="foxsports3.mx" tvg-name="FOX SPORTS 3 HD (MX) (R)" tvg-logo="http://listado.16mb.com/logosj/foxsports3.png" group-title="LIVE | DEPORTES",FOX SPORTS 3 HD (MX) (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/23529
+#EXTINF:-1 tvg-ID="foxsports3.mx" tvg-name="FOX SPORTS 3 MEX (ENCODER ) (HEVC H.265 / 50 FPS)" tvg-logo="http://listado.16mb.com/logosj/foxsports3.png" group-title="LIVE | DEPORTES",FOX SPORTS 3 MEX (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/3042
+#EXTINF:-1 tvg-ID="foxsports.mx" tvg-name="FOX SPORTS MEX (ENCODER ) (HEVC H.265 / 50 FPS)" tvg-logo="http://listado.16mb.com/logosj/foxsports.png" group-title="LIVE | DEPORTES",FOX SPORTS MEX (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/23533
+#EXTINF:-1 tvg-ID="I122.11097.schedulesdirect.org" tvg-name="FOX SPORTS MEX OP.2" tvg-logo="http://listado.16mb.com/logosj/foxsports.png" group-title="LIVE | DEPORTES",FOX SPORTS MEX OP.2
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/29028
+#EXTINF:-1 tvg-ID="AR - FOX Sports Premium" tvg-name="FOX SPORTS PREMIUM HD (ARG) (R)" tvg-logo="http://listado.16mb.com/logosj/foxsportspremium.png" group-title="LIVE | DEPORTES",FOX SPORTS PREMIUM HD (ARG) (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/23538
+#EXTINF:-1 tvg-ID="movistarlaliga.sp" tvg-name="FUTV HD (S)" tvg-logo="http://listado.16mb.com/logosj/futv.png" group-title="LIVE | DEPORTES",FUTV HD (S)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28639
+#EXTINF:-1 tvg-ID="goltvspanish.us" tvg-name="GOL TV ES ENCODER" tvg-logo="http://listado.16mb.com/logosj/goltv.png" group-title="LIVE | DEPORTES",GOL TV ES ENCODER
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28880
+#EXTINF:-1 tvg-ID="movistar.deportes.1.es" tvg-name="MOVIS DEPORTES" tvg-logo="http://listado.16mb.com/logosj/mdeportes.png" group-title="LIVE | DEPORTES",MOVIS DEPORTES
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/24163
+#EXTINF:-1 tvg-ID="movistarcampeones.es" tvg-name="MOVISTAR LA LIGA 1 FHD" tvg-logo="http://listado.16mb.com/logosj/mlaliga.png" group-title="LIVE | DEPORTES",MOVISTAR LA LIGA 1 FHD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28637
+#EXTINF:-1 tvg-ID="I122.11097.schedulesdirect.org" tvg-name="MOVISTAR LA LIGA 2 FHD" tvg-logo="http://listado.16mb.com/logosj/mlaliga.png" group-title="LIVE | DEPORTES",MOVISTAR LA LIGA 2 FHD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28638
+#EXTINF:-1 tvg-ID="I382.52300.schedulesdirect.org" tvg-name="MOVISTAR LA LIGA HD (S)" tvg-logo="http://listado.16mb.com/logosj/mlaliga.png" group-title="LIVE | DEPORTES",MOVISTAR LA LIGA HD (S)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28640
+#EXTINF:-1 tvg-ID="realmadridtv.es" tvg-name="REAL MADRIDTV" tvg-logo="http://listado.16mb.com/logosj/realm.png" group-title="LIVE | DEPORTES",REAL MADRIDTV
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/18295
+#EXTINF:-1 tvg-ID="tigo.sport.sv" tvg-name="TIGO SPORTS  FHD (PY) (P)" tvg-logo="http://listado.16mb.com/logosj/tigo.png" group-title="LIVE | DEPORTES",TIGO SPORTS  FHD (PY) (P)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/23600
+#EXTINF:-1 tvg-ID="tigo.sport.sv" tvg-name="TIGO SPORTS FHD (HN)" tvg-logo="http://listado.16mb.com/logosj/tigo.png" group-title="LIVE | DEPORTES",TIGO SPORTS FHD (HN)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/23606
+#EXTINF:-1 tvg-ID="tigo.sport.sv" tvg-name="TIGO SPORTS HD (GT) (S)" tvg-logo="http://listado.16mb.com/logosj/tigo.png" group-title="LIVE | DEPORTES",TIGO SPORTS HD (GT) (S)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/23602
+#EXTINF:-1 tvg-ID="I264.113656.schedulesdirect.org" tvg-name="TUDN (ENCODER) (1920P / 29 FPS) (SK)" tvg-logo="http://listado.16mb.com/logosj/tudn.png" group-title="LIVE | DEPORTES",TUDN (ENCODER) (1920P / 29 FPS) (SK)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28770
+#EXTINF:-1 tvg-ID="I264.113656.schedulesdirect.org" tvg-name="TUDN SPORTS FHD MEX (RO)" tvg-logo="http://listado.16mb.com/logosj/tudn.png" group-title="LIVE | DEPORTES",TUDN SPORTS FHD MEX (RO)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28769
+#EXTINF:-1 tvg-ID="win.sports.plus.co" tvg-name="WIN SPORTS + (.CO)" tvg-logo="http://listado.16mb.com/logosj/winsports.png" group-title="LIVE | DEPORTES",WIN SPORTS + (.CO)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/23593
+#EXTINF:-1 tvg-ID="win.sports.co" tvg-name="WIN SPORTS HD (US)" tvg-logo="http://listado.16mb.com/logosj/winsports.png" group-title="LIVE | DEPORTES",WIN SPORTS HD (US)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/23592
+#EXTINF:-1 tvg-ID="ext" tvg-name="AMERICA TEVE MIAMI. (L)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-tv-ar.png" group-title="LIVE | LATINO US NETWORK",AMERICA TEVE MIAMI. (L)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/43141
+#EXTINF:-1 tvg-ID="estrellatv.us" tvg-name="ESTRELLA TV. HD" tvg-logo="http://listado.16mb.com/logosj/estrellatv.png" group-title="LIVE | LATINO US NETWORK",ESTRELLA TV. HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/43135
+#EXTINF:-1 tvg-ID="I404.10222.zap2it.com" tvg-name="GALAVISION SAN FRANCISCO HD " tvg-logo="http://listado.16mb.com/logosj/galavision.png" group-title="LIVE | LATINO US NETWORK",GALAVISION HD 
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/60784
+#EXTINF:-1 tvg-ID="megatv.us" tvg-name="MEGA TV US. (R)" tvg-logo="http://listado.16mb.com/logosj/megatv.png" group-title="LIVE | LATINO US NETWORK",MEGA TV US. (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/43136
+#EXTINF:-1 tvg-ID="telemundo.mx" tvg-name="TELEMUNDO INTERNATIONAL. (R)" tvg-logo="http://listado.16mb.com/logosj/telemundo.png" group-title="LIVE | LATINO US NETWORK",TELEMUNDO INTERNATIONAL. (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/43111
+#EXTINF:-1 tvg-ID="ext" tvg-name="UNIMAS WUTH CT HARTFORD" tvg-logo="http://listado.16mb.com/logosj/unimas.png" group-title="LIVE | LATINO US NETWORK",UNIMAS WUTH CT HARTFORD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/81501
+#EXTINF:-1 tvg-ID="nbcuniverso.us" tvg-name="UNIVERSO-WEST" tvg-logo="http://listado.16mb.com/logosj/universo.png" group-title="LIVE | LATINO US NETWORK",UNIVERSO-WEST
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/55092
+#EXTINF:-1 tvg-ID="ext" tvg-name="UNIVISION WVEN FL ORLANDO" tvg-logo="http://listado.16mb.com/logosj/univision.png" group-title="LIVE | LATINO US NETWORK",UNIVISION WVEN FL ORLANDO
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/81509
+#EXTINF:-1 tvg-ID="telemundowktb.us" tvg-name="TELEMUNDO ATLANTA" tvg-logo="http://listado.16mb.com/logosj/telemundo.png" group-title="LIVE | LATINO US NETWORK",TELEMUNDO ATLANTA
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/93694
+#EXTINF:-1 tvg-ID="animalplanet.us" tvg-name="ANIMAL PLANET EAST FHD" tvg-logo="http://listado.16mb.com/logosj/ap.png" group-title="LIVE | CULTURALS US",ANIMAL PLANET EAST FHD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/18124
+#EXTINF:-1 tvg-ID="discoverychannel.us" tvg-name="DISCOVERY CHANNEL EAST FHD" tvg-logo="http://listado.16mb.com/logosj/discovery.png" group-title="LIVE | CULTURALS US",DISCOVERY CHANNEL EAST FHD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/18123
+#EXTINF:-1 tvg-ID="eentertainment.us" tvg-name="E! EAT FHD (R)" tvg-logo="http://listado.16mb.com/logosj/e!.png" group-title="LIVE | CULTURALS US",E! EAT FHD (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/18128
+#EXTINF:-1 tvg-ID="foodnetwork.us" tvg-name="FOOD NETWORK EAST FHD K" tvg-logo="http://listado.16mb.com/logosj/foodnet.png" group-title="LIVE | CULTURALS US",FOOD NETWORK EAST FHD K
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/18132
+#EXTINF:-1 tvg-ID="hgtv.us" tvg-name="HGTV EAST FHD (R)" tvg-logo="http://listado.16mb.com/logosj/hgtv.png" group-title="LIVE | CULTURALS US",HGTV EAST FHD (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/18134
+#EXTINF:-1 tvg-ID="I269.14771.zap2it.com" tvg-name="HISTORY CHANNEL" tvg-logo="http://listado.16mb.com/logosj/history.png" group-title="LIVE | CULTURALS US",HISTORY CHANNEL
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/2994
+#EXTINF:-1 tvg-ID="investigationdiscovery.us" tvg-name="ID EAST FHD" tvg-logo="http://listado.16mb.com/logosj/id.png" group-title="LIVE | CULTURALS US",ID EAST FHD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/18129
+#EXTINF:-1 tvg-ID="natgeowild.us" tvg-name="NAT GEO WILD" tvg-logo="http://listado.16mb.com/logosj/wild.png" group-title="LIVE | CULTURALS US",NAT GEO WILD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/18125
+#EXTINF:-1 tvg-ID="outdoorchannel.us" tvg-name="OUTDOOR HD ENCODER" tvg-logo="http://listado.16mb.com/logosj/outdoor.png" group-title="LIVE | CULTURALS US",OUTDOOR HD ENCODER
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/41681
+#EXTINF:-1 tvg-ID="oxygen.us" tvg-name="OXYGEN EAST FHD (N)" tvg-logo="http://listado.16mb.com/logosj/oxygen.png" group-title="LIVE | CULTURALS US",OXYGEN EAST FHD (N)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/18133
+#EXTINF:-1 tvg-ID="poptv.us" tvg-name="POPTV US EAST" tvg-logo="http://listado.16mb.com/logosj/poptv.png" group-title="LIVE | CULTURALS US",POPTV US EAST
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/18137
+#EXTINF:-1 tvg-ID="smithsonianchannel.us" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="http://listado.16mb.com/logosj/smithsonian.png" group-title="LIVE | CULTURALS US",SMITHSONIAN CHANNEL
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/18122
+#EXTINF:-1 tvg-ID="tastemade.us" tvg-name="TASTEMADE" tvg-logo="http://listado.16mb.com/logosj/tastemade.png" group-title="LIVE | CULTURALS US",TASTEMADE
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/18131
+#EXTINF:-1 tvg-ID="tlc.us" tvg-name="TLC EAST FHD" tvg-logo="http://listado.16mb.com/logosj/tlc.png" group-title="LIVE | CULTURALS US",TLC EAST FHD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/18130
+#EXTINF:-1 tvg-ID="a3cine.us" tvg-name="TRAVEL EAST FHD" tvg-logo="http://listado.16mb.com/logosj/travel.png" group-title="LIVE | CULTURALS US",TRAVEL EAST FHD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/18127
+#EXTINF:-1 tvg-ID="trutv.us" tvg-name="TRUTV EAST FHD" tvg-logo="http://listado.16mb.com/logosj/trutv.png" group-title="LIVE | CULTURALS US",TRUTV EAST FHD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/18136
+#EXTINF:-1 tvg-ID="wetv.us" tvg-name="WE TV US FHD" tvg-logo="http://listado.16mb.com/logosj/wetv.png" group-title="LIVE | CULTURALS US",WE TV US FHD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/18138
+#EXTINF:-1 tvg-ID="animalplanet.mx" tvg-name="ANIMAL PLANET FHD (R)" tvg-logo="http://listado.16mb.com/logosj/ap.png" group-title="LIVE | DOCUMENTALES (LAT)",ANIMAL PLANET FHD (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/24269
+#EXTINF:-1 tvg-ID="animalplanet.mx" tvg-name="ANIMAL PLANET SD (R)" tvg-logo="http://listado.16mb.com/logosj/ap.png" group-title="LIVE | DOCUMENTALES (LAT)",ANIMAL PLANET SD (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/24268
+#EXTINF:-1 tvg-ID="AR - Discovery HD" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://listado.16mb.com/logosj/discovery.png" group-title="LIVE | DOCUMENTALES (LAT)",DISCOVERY CHANNEL
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/14533
+#EXTINF:-1 tvg-ID="AR - Discovery Channel" tvg-name="DISCOVERY EN ESPANOL FHD  (R)" tvg-logo="http://listado.16mb.com/logosj/discovery.png" group-title="LIVE | DOCUMENTALES (LAT)",DISCOVERY EN ESPANOL FHD  (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/24222
+#EXTINF:-1 tvg-ID="discoveryhomeandhealth.mx" tvg-name="DISCOVERY H&H (1920P / 29 FPS)" tvg-logo="http://listado.16mb.com/logosj/hh.png" group-title="LIVE | DOCUMENTALES (LAT)",DISCOVERY H&H (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/17540
+#EXTINF:-1 tvg-ID="investigationdiscovery.mx" tvg-name="DISCOVERY ID (ENCODER ) (HEVC H.265 / 50 FPS)" tvg-logo="http://listado.16mb.com/logosj/id.png" group-title="LIVE | DOCUMENTALES (LAT)",DISCOVERY ID (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/28923
+#EXTINF:-1 tvg-ID="CO - Investigation Discovery HD" tvg-name="DISCOVERY ID (S)" tvg-logo="http://listado.16mb.com/logosj/id.png" group-title="LIVE | DOCUMENTALES (LAT)",DISCOVERY ID (S)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/14532
+#EXTINF:-1 tvg-ID="CO - Discovery Science" tvg-name="DISCOVERY SCIENCE " tvg-logo="http://listado.16mb.com/logosj/science.png" group-title="LIVE | DOCUMENTALES (LAT)",DISCOVERY SCIENCE 
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/14535
+#EXTINF:-1 tvg-ID="discoveryscience.mx" tvg-name="DISCOVERY SCIENCE LATINO FHD (RE)" tvg-logo="http://listado.16mb.com/logosj/science.png" group-title="LIVE | DOCUMENTALES (LAT)",DISCOVERY SCIENCE LATINO FHD (RE)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/25394
+#EXTINF:-1 tvg-ID="tlc.ar" tvg-name="DISCOVERY TLC HD (D)." tvg-logo="http://listado.16mb.com/logosj/tlc.png" group-title="LIVE | DOCUMENTALES (LAT)",DISCOVERY TLC HD (D).
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/25395
+#EXTINF:-1 tvg-ID="discoveryworld.mx" tvg-name="DISCOVERY WORLD FHD (S)" tvg-logo="http://listado.16mb.com/logosj/world.png" group-title="LIVE | DOCUMENTALES (LAT)",DISCOVERY WORLD FHD (S)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/25393
+#EXTINF:-1 tvg-ID="AR - Food Network" tvg-name="FOOD NETWORK HD (S)" tvg-logo="http://listado.16mb.com/logosj/foodnet.png" group-title="LIVE | DOCUMENTALES (LAT)",FOOD NETWORK HD (S)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/14598
+#EXTINF:-1 tvg-ID="AR - History 2" tvg-name="H2 #OP2 (1920P / 29 FPS)" tvg-logo="http://listado.16mb.com/logosj/h2.png" group-title="LIVE | DOCUMENTALES (LAT)",H2 #OP2 (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/16805
+#EXTINF:-1 tvg-ID="historychannel.mx" tvg-name="HISTORY CHANNEL MEXICO" tvg-logo="http://listado.16mb.com/logosj/history.png" group-title="LIVE | DOCUMENTALES (LAT)",HISTORY CHANNEL MEXICO
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/25351
+#EXTINF:-1 tvg-ID="natgeo.mx" tvg-name="NATGEO MUNDO LATINO." tvg-logo="http://listado.16mb.com/logosj/natgeo.png" group-title="LIVE | DOCUMENTALES (LAT)",NATGEO MUNDO LATINO.
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/31226
+#EXTINF:-1 tvg-ID="ext" tvg-name="ANTENA LATINA HD (RD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Antena_Latina_2016.webp/1000px-Antena_Latina_2016.webp.png" group-title="LIVE | RD",ANTENA LATINA HD (RD)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/73372
+#EXTINF:-1 tvg-ID="ext" tvg-name="CANAL 25 SANTIAGO (RD)" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/canal25.png" group-title="LIVE | RD",CANAL 25 SANTIAGO (RD)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/73373
+#EXTINF:-1 tvg-ID="ext" tvg-name="CARIVISION (RD)" tvg-logo="data:image/png;base64,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" group-title="LIVE | RD",CARIVISION (RD)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/73368
+#EXTINF:-1 tvg-ID="ext" tvg-name="CDN SPORT MAX HD (RD)" tvg-logo="https://pbs.twimg.com/profile_images/378800000619827008/b9cc037613ceebec4d9b209eff48fbcf_400x400.jpeg" group-title="LIVE | RD",CDN SPORT MAX HD (RD)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/73374
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE EXTREMA TV (RD)" tvg-logo="http://listado.16mb.com/logosj/cineextrema.png" group-title="LIVE | RD",CINE EXTREMA TV (RD)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/7531
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINEVISION 19 (RD)" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/08/71/86/0871865b-d1be-7b0d-b138-c5d8217ae4f4/source/256x256bb.jpg" group-title="LIVE | RD",CINEVISION 19 (RD)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/73375
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOR VISION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Color_Visión_2019.png/revision/latest?cb=20200919163207&path-prefix=es" group-title="LIVE | RD",COLOR VISION
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/74533
+#EXTINF:-1 tvg-ID="ext" tvg-name="DIGITAL 15 (RD)" tvg-logo="http://listado.16mb.com/logosj/digital15.png" group-title="LIVE | RD",DIGITAL 15 (RD)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/7624
+#EXTINF:-1 tvg-ID="ext" tvg-name="LUNA TV (RD)" tvg-logo="data:image/jpeg;base64,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" group-title="LIVE | RD",LUNA TV (RD)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/73378
+#EXTINF:-1 tvg-ID="ext" tvg-name="MEGA VISION" tvg-logo="" group-title="LIVE | RD",MEGA VISION
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/73377
+#EXTINF:-1 tvg-ID="ext" tvg-name="SUPER TV 55" tvg-logo="" group-title="LIVE | RD",SUPER TV 55
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/73376
+#EXTINF:-1 tvg-ID="ext" tvg-name="TELEFUTURO 23 (RD)" tvg-logo="" group-title="LIVE | RD",TELEFUTURO 23 (RD)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/73370
+#EXTINF:-1 tvg-ID="ext" tvg-name="TELESISTEMA (RD)" tvg-logo="http://listado.16mb.com/logosj/telesistema.png" group-title="LIVE | RD",TELESISTEMA (RD)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/7529
+#EXTINF:-1 tvg-ID="ext" tvg-name="TV PLATA (RD)" tvg-logo="" group-title="LIVE | RD",TV PLATA (RD)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/73371
+#EXTINF:-1 tvg-ID="ext" tvg-name="TELEANTILLAS (RD)" tvg-logo="" group-title="LIVE | RD",TELEANTILLAS (RD)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/89047
+#EXTINF:-1 tvg-ID="ext" tvg-name="BANDAMAX (J) (EX)" tvg-logo="http://listado.16mb.com/logosj/bandamax.png" group-title="LIVE | MUSICALES",BANDAMAX (J) (EX)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/55106
+#EXTINF:-1 tvg-ID="ext" tvg-name="BANDAMAX (R)" tvg-logo="http://listado.16mb.com/logosj/bandamax.png" group-title="LIVE | MUSICALES",BANDAMAX (R)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/25090
+#EXTINF:-1 tvg-ID="ext" tvg-name="MC MEXICANA (T)" tvg-logo="http://listado.16mb.com/logosj/mchoice.png" group-title="LIVE | MUSICALES",MC MEXICANA (T)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/30029
+#EXTINF:-1 tvg-ID="ext" tvg-name="MC POP LATINO (T)" tvg-logo="http://listado.16mb.com/logosj/mchoice.png" group-title="LIVE | MUSICALES",MC POP LATINO (T)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/30032
+#EXTINF:-1 tvg-ID="ext" tvg-name="MC ROCK (T)" tvg-logo="http://listado.16mb.com/logosj/mchoice.png" group-title="LIVE | MUSICALES",MC ROCK (T)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/30028
+#EXTINF:-1 tvg-ID="ext" tvg-name="MTV CLASSIC US" tvg-logo="http://listado.16mb.com/logosj/mtvclassic.png" group-title="LIVE | MUSICALES",MTV CLASSIC US
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/14519
+#EXTINF:-1 tvg-ID="I122.11097.schedulesdirect.org" tvg-name="MTV LATINO" tvg-logo="http://listado.16mb.com/logosj/mtv.png" group-title="LIVE | MUSICALES",MTV LATINO
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/14107
+#EXTINF:-1 tvg-ID="ext" tvg-name="MTV U (USA)" tvg-logo="http://listado.16mb.com/logosj/mtvu.png" group-title="LIVE | MUSICALES",MTV U (USA)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/14521
+#EXTINF:-1 tvg-ID="I264.113656.schedulesdirect.org" tvg-name="TELE HIT PLUS ENCODER (H265)" tvg-logo="http://listado.16mb.com/logosj/ritmoson.png" group-title="LIVE | MUSICALES",TELE HIT PLUS ENCODER (H265)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/41676
+#EXTINF:-1 tvg-ID="I122.11097.schedulesdirect.org" tvg-name="TELEHIT ENCODER (H265)" tvg-logo="http://listado.16mb.com/logosj/telehit.png" group-title="LIVE | MUSICALES",TELEHIT ENCODER (H265)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/41677
+#EXTINF:-1 tvg-ID="ext" tvg-name="VIDEO ROLA HD" tvg-logo="http://listado.16mb.com/logosj/videorola.png" group-title="LIVE | MUSICALES",VIDEO ROLA HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/55888
+#EXTINF:-1 tvg-ID="ext" tvg-name="CABLE NOTICIAS HD (CO) ENCODER" tvg-logo="http://listado.16mb.com/logosj/cablenoticias.png" group-title="LIVE | COLOMBIA",CABLE NOTICIAS HD (CO) ENCODER
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/32752
+#EXTINF:-1 tvg-ID="ext" tvg-name="CALITV HD" tvg-logo="http://listado.16mb.com/logosj/calitv.png" group-title="LIVE | COLOMBIA",CALITV HD
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/32756
+#EXTINF:-1 tvg-ID="ext" tvg-name="CANAL TRO (CO)" tvg-logo="http://listado.16mb.com/logosj/tro.png" group-title="LIVE | COLOMBIA",CANAL TRO (CO)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/16986
+#EXTINF:-1 tvg-ID="ext" tvg-name="CANAL UNO (CO)" tvg-logo="http://listado.16mb.com/logosj/canaluno.png" group-title="LIVE | COLOMBIA",CANAL UNO (CO)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/16985
+#EXTINF:-1 tvg-ID="ext" tvg-name="CAPITAL HD (CO)" tvg-logo="http://listado.16mb.com/logosj/capital.png" group-title="LIVE | COLOMBIA",CAPITAL HD (CO)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/7628
+#EXTINF:-1 tvg-ID="ext" tvg-name="CARACOL HD (CO) ENCODER" tvg-logo="http://listado.16mb.com/logosj/caracol.png" group-title="LIVE | COLOMBIA",CARACOL HD (CO) ENCODER
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/32747
+#EXTINF:-1 tvg-ID="ext" tvg-name="CARACOL INTERNACIONAL (CO)" tvg-logo="http://listado.16mb.com/logosj/caracol.png" group-title="LIVE | COLOMBIA",CARACOL INTERNACIONAL (CO)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/16981
+#EXTINF:-1 tvg-ID="I114.101735.schedulesdirect.org" tvg-name="CARTOON NETWORK FHD (CO)" tvg-logo="http://listado.16mb.com/logosj/cartoon.png" group-title="LIVE | COLOMBIA",CARTOON NETWORK FHD (CO)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/25215
+#EXTINF:-1 tvg-ID="ext" tvg-name="WIN SPORTS" tvg-logo="https://i.pinimg.com/originals/91/6c/dd/916cdded85c33a4335136950db7958ee.jpg" group-title="LIVE | COLOMBIA",WIN SPORTS
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/75714
+#EXTINF:-1 tvg-ID="ext" tvg-name="WIN SPORTS PLUS" tvg-logo="https://i.pinimg.com/originals/91/6c/dd/916cdded85c33a4335136950db7958ee.jpg" group-title="LIVE | COLOMBIA",WIN SPORTS PLUS
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/75715
+#EXTINF:-1 tvg-ID="la.Discovery Civilization" tvg-name="DISCOVERY CIVILIZATION FHD (CO)" tvg-logo="http://listado.16mb.com/logosj/civilization.png" group-title="LIVE | COLOMBIA",DISCOVERY CIVILIZATION FHD (CO)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/25216
+#EXTINF:-1 tvg-ID="la.Discovery Science" tvg-name="DISCOVERY SCIENCE FHD (CO)" tvg-logo="http://listado.16mb.com/logosj/science.png" group-title="LIVE | COLOMBIA",DISCOVERY SCIENCE FHD (CO)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/25217
+#EXTINF:-1 tvg-ID="I122.11097.schedulesdirect.org" tvg-name="RCN 2 HD (CO) ENCODER" tvg-logo="http://listado.16mb.com/logosj/rcn.png" group-title="LIVE | COLOMBIA",RCN 2 HD (CO) ENCODER
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/32749
+#EXTINF:-1 tvg-ID="ext" tvg-name="RCN HD (CO)" tvg-logo="http://listado.16mb.com/logosj/rcn.png" group-title="LIVE | COLOMBIA",RCN HD (CO)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/16984
+#EXTINF:-1 tvg-ID="ext" tvg-name="RCN NOVELAS (CO)(B)" tvg-logo="http://listado.16mb.com/logosj/rcn.png" group-title="LIVE | COLOMBIA",RCN NOVELAS (CO)(B)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/16987
+#EXTINF:-1 tvg-ID="ext" tvg-name="RCN NUESTRA TELE HD (CO) ENCODER" tvg-logo="http://listado.16mb.com/logosj/rcn.png" group-title="LIVE | COLOMBIA",RCN NUESTRA TELE HD (CO) ENCODER
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/32751
+#EXTINF:-1 tvg-ID="ext" tvg-name="SENAL COLOMBIA" tvg-logo="http://listado.16mb.com/logosj/senalcolombia.png" group-title="LIVE | COLOMBIA",SENAL COLOMBIA
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/16983
+#EXTINF:-1 tvg-ID="I216.60801.schedulesdirect.org" tvg-name="SPACE HD (CO) ENCODER" tvg-logo="http://listado.16mb.com/logosj/space.png" group-title="LIVE | COLOMBIA",SPACE HD (CO) ENCODER
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/32753
+#EXTINF:-1 tvg-ID="I356.57581.schedulesdirect.org" tvg-name="STAR HD (CO) (B)" tvg-logo="http://listado.16mb.com/logosj/star.png" group-title="LIVE | COLOMBIA",STAR HD (CO) (B)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/25219
+#EXTINF:-1 tvg-ID="ext" tvg-name="TELE MEDELLIN HD (CO) ENCODER" tvg-logo="http://listado.16mb.com/logosj/telemedellin.png" group-title="LIVE | COLOMBIA",TELE MEDELLIN HD (CO) ENCODER
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/32744
+#EXTINF:-1 tvg-ID="ext" tvg-name="TELECARIBE HD (CO) ENCODER" tvg-logo="http://listado.16mb.com/logosj/telecaribe.png" group-title="LIVE | COLOMBIA",TELECARIBE HD (CO) ENCODER
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/32748
+#EXTINF:-1 tvg-ID="ext" tvg-name="TIGO SPORTS 1 HD (CO)" tvg-logo="http://listado.16mb.com/logosj/tigo.png" group-title="LIVE | COLOMBIA",TIGO SPORTS 1 HD (CO)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/32723
+#EXTINF:-1 tvg-ID="ext" tvg-name="WIN SPORTS + (CO)(RE)" tvg-logo="http://69.64.33.127/ws+.jpg" group-title="LIVE | COLOMBIA",WIN SPORTS + (CO)(RE)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/16982
+#EXTINF:-1 tvg-ID="ext" tvg-name="WIN SPORTS + HD (CO) ENCODER" tvg-logo="http://listado.16mb.com/logosj/winsports.png" group-title="LIVE | COLOMBIA",WIN SPORTS + HD (CO) ENCODER
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/32725
+#EXTINF:-1 tvg-ID="oprahwinfreynetwork.us" tvg-name="WIN SPORTS + SD (CO)" tvg-logo="http://legacyplay.myq-see.com/covid/local/winmas.jpg" group-title="LIVE | COLOMBIA",WIN SPORTS + SD (CO)
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/7509
+#EXTINF:-1 tvg-ID="ext" tvg-name="WIN SPORTS HD (CO) ENCODER" tvg-logo="http://listado.16mb.com/logosj/winsports.png" group-title="LIVE | COLOMBIA",WIN SPORTS HD (CO) ENCODER
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/32724
+#EXTINF:-1 tvg-ID="ext" tvg-name="WIN SPORTS HD OP 2." tvg-logo="" group-title="LIVE | COLOMBIA",WIN SPORTS HD OP 2.
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/29284
