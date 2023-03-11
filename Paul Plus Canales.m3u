@@ -1,0 +1,561 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="La 2 HD" tvg-name="LA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" group-title="TDT",LA 1 SD
+http://electrocopperonline.com:8080/Paul/1234/4787
+#EXTINF:-1 tvg-ID="la2.es" tvg-name="LA 2 SD" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="TDT",LA 2 SD
+http://electrocopperonline.com:8080/Paul/1234/4790
+#EXTINF:-1 tvg-ID="ANTENA 3 HD" tvg-name="ANTENA 3 SD" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" group-title="TDT",ANTENA 3 SD
+http://electrocopperonline.com:8080/Paul/1234/4793
+#EXTINF:-1 tvg-ID="CUATRO HD" tvg-name="CUATRO SD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="TDT",CUATRO SD
+http://electrocopperonline.com:8080/Paul/1234/4796
+#EXTINF:-1 tvg-ID="TELECINCO HD" tvg-name="TELECINCO SD" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/tele5-640x523.png" group-title="TDT",TELECINCO SD
+http://electrocopperonline.com:8080/Paul/1234/4799
+#EXTINF:-1 tvg-ID="LA SEXTA HD" tvg-name="LA SEXTA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="TDT",LA SEXTA SD
+http://electrocopperonline.com:8080/Paul/1234/4802
+#EXTINF:-1 tvg-ID="Ten" tvg-name="TEN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/2880px-Ten.svg.png" group-title="TDT",TEN SD
+http://electrocopperonline.com:8080/Paul/1234/4803
+#EXTINF:-1 tvg-ID="DKISS" tvg-name="DKISS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/448px-DKiss.svg.png" group-title="TDT",DKISS HD
+http://electrocopperonline.com:8080/Paul/1234/4804
+#EXTINF:-1 tvg-ID="BE MAD" tvg-name="BE MAD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1920px-Be_Mad_TV.svg.png" group-title="TDT",BE MAD SD
+http://electrocopperonline.com:8080/Paul/1234/4807
+#EXTINF:-1 tvg-ID="atreseries.es" tvg-name="ATRESERIES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1920px-AtreseriesLogo.svg.png" group-title="TDT",ATRESERIES SD
+http://electrocopperonline.com:8080/Paul/1234/4810
+#EXTINF:-1 tvg-ID="NEOX FHD" tvg-name="NEOX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2880px-Neox.svg.png" group-title="TDT",NEOX SD
+http://electrocopperonline.com:8080/Paul/1234/4813
+#EXTINF:-1 tvg-ID="NOVA FHD" tvg-name="NOVA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2880px-Nova.svg.png" group-title="TDT",NOVA SD
+http://electrocopperonline.com:8080/Paul/1234/4816
+#EXTINF:-1 tvg-ID="ENERGY" tvg-name="ENERGY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1920px-Energy.svg.png" group-title="TDT",ENERGY SD
+http://electrocopperonline.com:8080/Paul/1234/4819
+#EXTINF:-1 tvg-ID="DIVINITY" tvg-name="DIVINITY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1024px-Divinity.svg.png" group-title="TDT",DIVINITY SD
+http://electrocopperonline.com:8080/Paul/1234/4822
+#EXTINF:-1 tvg-ID="factoriaficcion.es" tvg-name="FDF SD" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/fdf.png" group-title="TDT",FDF SD
+http://electrocopperonline.com:8080/Paul/1234/4825
+#EXTINF:-1 tvg-ID="mega.es" tvg-name="MEGA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2880px-MEGA.svg.png" group-title="TDT",MEGA SD
+http://electrocopperonline.com:8080/Paul/1234/4828
+#EXTINF:-1 tvg-ID="#0 HD" tvg-name="#0 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" group-title="MOVISTAR",#0 SD
+http://electrocopperonline.com:8080/Paul/1234/4831
+#EXTINF:-1 tvg-ID="M. SERIES HD" tvg-name="MOVISTAR SERIES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="MOVISTAR",MOVISTAR SERIES SD
+http://electrocopperonline.com:8080/Paul/1234/4834
+#EXTINF:-1 tvg-ID="M. SERIES 2 HD" tvg-name="MOVISTAR SERIES 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="MOVISTAR",MOVISTAR SERIES 2 SD
+http://electrocopperonline.com:8080/Paul/1234/4837
+#EXTINF:-1 tvg-ID="La Resistencia" tvg-name="MOVISTAR LA RESISTENCIA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/RESIST.png" group-title="MOVISTAR",MOVISTAR LA RESISTENCIA SD
+http://electrocopperonline.com:8080/Paul/1234/4840
+#EXTINF:-1 tvg-ID="M+ LOS OSCAR" tvg-name="MOVISTAR OSCARS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MOSCAR.png" group-title="MOVISTAR",MOVISTAR OSCARS SD
+http://electrocopperonline.com:8080/Paul/1234/4842
+#EXTINF:-1 tvg-ID="ext" tvg-name="ALL FLAMENCO" tvg-logo="https://institutoculturagitana.es/wp-content/uploads/2022/01/descarga.png" group-title="MOVISTAR",ALL FLAMENCO
+http://electrocopperonline.com:8080/Paul/1234/11192
+#EXTINF:-1 tvg-ID="movistaraccion.es" tvg-name="MOVISTAR ACCION SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="MOVISTAR",MOVISTAR ACCION SD
+http://electrocopperonline.com:8080/Paul/1234/4845
+#EXTINF:-1 tvg-ID="movistarestrenos.es" tvg-name="MOVISTAR ESTRENOS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="MOVISTAR",MOVISTAR ESTRENOS SD
+http://electrocopperonline.com:8080/Paul/1234/4848
+#EXTINF:-1 tvg-ID="M. ESTRENOS 2 HD" tvg-name="MOVISTAR ESTRENOS 2 SD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="MOVISTAR",MOVISTAR ESTRENOS 2 SD
+http://electrocopperonline.com:8080/Paul/1234/4851
+#EXTINF:-1 tvg-ID="M. CLÁSICOS HD" tvg-name="MOVISTAR CLASICOS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="MOVISTAR",MOVISTAR CLASICOS SD
+http://electrocopperonline.com:8080/Paul/1234/4854
+#EXTINF:-1 tvg-ID="M.COMEDIA HD" tvg-name="MOVISTAR COMEDIA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="MOVISTAR",MOVISTAR COMEDIA SD
+http://electrocopperonline.com:8080/Paul/1234/4857
+#EXTINF:-1 tvg-ID="M. DRAMA HD" tvg-name="MOVISTAR DRAMA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="MOVISTAR",MOVISTAR DRAMA SD
+http://electrocopperonline.com:8080/Paul/1234/4860
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR CINE Ñ SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="MOVISTAR",MOVISTAR CINE Ñ SD
+http://electrocopperonline.com:8080/Paul/1234/4862
+#EXTINF:-1 tvg-ID="ext" tvg-name="FOX SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="MOVISTAR",FOX SD
+http://electrocopperonline.com:8080/Paul/1234/4866
+#EXTINF:-1 tvg-ID="AXN HD" tvg-name="AXN SD" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/axn-640x523.png" group-title="MOVISTAR",AXN SD
+http://electrocopperonline.com:8080/Paul/1234/4869
+#EXTINF:-1 tvg-ID="AXN WHITE HD" tvg-name="AXN WHITE SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="MOVISTAR",AXN WHITE SD
+http://electrocopperonline.com:8080/Paul/1234/4872
+#EXTINF:-1 tvg-ID="TNT HD" tvg-name="TNT SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="MOVISTAR",TNT SD
+http://electrocopperonline.com:8080/Paul/1234/4875
+#EXTINF:-1 tvg-ID="comedycentral.es" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="MOVISTAR",COMEDY CENTRAL SD
+http://electrocopperonline.com:8080/Paul/1234/4878
+#EXTINF:-1 tvg-ID="CALLE 13 HD" tvg-name="CALLE 13 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="MOVISTAR",CALLE 13 SD
+http://electrocopperonline.com:8080/Paul/1234/4881
+#EXTINF:-1 tvg-ID="COSMO HD" tvg-name="COSMO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2880px-Cosmo_TV_logo.svg.png" group-title="MOVISTAR",COSMO SD
+http://electrocopperonline.com:8080/Paul/1234/4884
+#EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="MOVISTAR",AMC SD
+http://electrocopperonline.com:8080/Paul/1234/4887
+#EXTINF:-1 tvg-ID="SYFY HD" tvg-name="SYFY SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="MOVISTAR",SYFY SD
+http://electrocopperonline.com:8080/Paul/1234/4890
+#EXTINF:-1 tvg-ID="TCM HD" tvg-name="TCM SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="MOVISTAR",TCM SD
+http://electrocopperonline.com:8080/Paul/1234/4893
+#EXTINF:-1 tvg-ID="paramountchannel.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="MOVISTAR",PARAMOUNT CHANNEL
+http://electrocopperonline.com:8080/Paul/1234/4894
+#EXTINF:-1 tvg-ID="BOM" tvg-name="BOM CINE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/2560px-Logo-bom.svg.png" group-title="MOVISTAR",BOM CINE SD
+http://electrocopperonline.com:8080/Paul/1234/4896
+#EXTINF:-1 tvg-ID="Somos" tvg-name="SOMOS HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="MOVISTAR",SOMOS HD 1080P
+http://electrocopperonline.com:8080/Paul/1234/4897
+#EXTINF:-1 tvg-ID="XTRM" tvg-name="XTRM HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_España.png" group-title="MOVISTAR",XTRM HD 1080P
+http://electrocopperonline.com:8080/Paul/1234/4898
+#EXTINF:-1 tvg-ID="SUNDANCE TV" tvg-name="SUNDANCE SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="MOVISTAR",SUNDANCE SD
+http://electrocopperonline.com:8080/Paul/1234/4900
+#EXTINF:-1 tvg-ID="HOLLYWOOD HD" tvg-name="HOLLYWOOD SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="MOVISTAR",HOLLYWOOD SD
+http://electrocopperonline.com:8080/Paul/1234/4903
+#EXTINF:-1 tvg-ID="dark.es" tvg-name="DARK RED HD 1080P" tvg-logo="https://vfes-images.ott.kaltura.com/16dca77dcb2d432ba7bfb4c6eda3d23f_288X162.png" group-title="MOVISTAR",DARK RED HD 1080P
+http://electrocopperonline.com:8080/Paul/1234/4904
+#EXTINF:-1 tvg-ID="ext" tvg-name="ALQUILER 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" group-title="MOVISTAR",ALQUILER 1 HD
+http://electrocopperonline.com:8080/Paul/1234/4905
+#EXTINF:-1 tvg-ID="ext" tvg-name="ALQUILER 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" group-title="MOVISTAR",ALQUILER 2 HD
+http://electrocopperonline.com:8080/Paul/1234/4906
+#EXTINF:-1 tvg-ID="ext" tvg-name="ALQUILER 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" group-title="MOVISTAR",ALQUILER 3 HD
+http://electrocopperonline.com:8080/Paul/1234/4907
+#EXTINF:-1 tvg-ID="ext" tvg-name="ALQUILER 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" group-title="MOVISTAR",ALQUILER 4 HD
+http://electrocopperonline.com:8080/Paul/1234/4908
+#EXTINF:-1 tvg-ID="ext" tvg-name="ALQUILER 5 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" group-title="MOVISTAR",ALQUILER 5 HD
+http://electrocopperonline.com:8080/Paul/1234/4909
+#EXTINF:-1 tvg-ID="DreamWorks HD" tvg-name="DREAMWORKS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="INFANTIL",DREAMWORKS SD
+http://electrocopperonline.com:8080/Paul/1234/5002
+#EXTINF:-1 tvg-ID="CLAN  TVE" tvg-name="CLAN TVE SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" group-title="INFANTIL",CLAN TVE SD
+http://electrocopperonline.com:8080/Paul/1234/5005
+#EXTINF:-1 tvg-ID="BOING" tvg-name="BOING SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOING.png" group-title="INFANTIL",BOING SD
+http://electrocopperonline.com:8080/Paul/1234/5008
+#EXTINF:-1 tvg-ID="BABY TV" tvg-name="BABY TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BABY.png" group-title="INFANTIL",BABY TV SD
+http://electrocopperonline.com:8080/Paul/1234/5009
+#EXTINF:-1 tvg-ID="disneyjunior.es" tvg-name="DISNEY JUNIOR SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PLAYDC.png" group-title="INFANTIL",DISNEY JUNIOR SD
+http://electrocopperonline.com:8080/Paul/1234/5011
+#EXTINF:-1 tvg-ID="CANAL PANDA" tvg-name="CANAL PANDA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="INFANTIL",CANAL PANDA SD
+http://electrocopperonline.com:8080/Paul/1234/5014
+#EXTINF:-1 tvg-ID="NICK JR" tvg-name="NICK JR SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICKJR.png" group-title="INFANTIL",NICK JR SD
+http://electrocopperonline.com:8080/Paul/1234/5016
+#EXTINF:-1 tvg-ID="NICKELODEON HD" tvg-name="NICKELODEON SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2880px-Nickelodeon_2009_logo.svg.png" group-title="INFANTIL",NICKELODEON SD
+http://electrocopperonline.com:8080/Paul/1234/5019
+#EXTINF:-1 tvg-ID="disney.es" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" group-title="INFANTIL",DISNEY CHANNEL SD
+http://electrocopperonline.com:8080/Paul/1234/5022
+#EXTINF:-1 tvg-ID="ext" tvg-name="LAT | DIRECTV SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR31m3FCuc0C1gl_5eEpQ8Aa6x5pQL4-Axluw&usqp=CAU" group-title="Deporte Latino",LAT | DIRECTV SPORTS HD
+http://electrocopperonline.com:8080/Paul/1234/9639
+#EXTINF:-1 tvg-ID="ext" tvg-name="LAT | DIRECTV SPORTS 2  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR31m3FCuc0C1gl_5eEpQ8Aa6x5pQL4-Axluw&usqp=CAU" group-title="Deporte Latino",LAT | DIRECTV SPORTS 2  HD
+http://electrocopperonline.com:8080/Paul/1234/9641
+#EXTINF:-1 tvg-ID="ext" tvg-name="LAT | ESPN 3  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="Deporte Latino",LAT | ESPN 3  HD
+http://electrocopperonline.com:8080/Paul/1234/9644
+#EXTINF:-1 tvg-ID="ext" tvg-name="LAT | ESPN 2  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="Deporte Latino",LAT | ESPN 2  HD
+http://electrocopperonline.com:8080/Paul/1234/9646
+#EXTINF:-1 tvg-ID="ext" tvg-name="LAT | ESPN 1  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="Deporte Latino",LAT | ESPN 1  HD
+http://electrocopperonline.com:8080/Paul/1234/9649
+#EXTINF:-1 tvg-ID="ext" tvg-name="LAT | FOX SPORTS 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="Deporte Latino",LAT | FOX SPORTS 3 HD
+http://electrocopperonline.com:8080/Paul/1234/9652
+#EXTINF:-1 tvg-ID="ext" tvg-name="LAT | FOX SPORTS 2  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="Deporte Latino",LAT | FOX SPORTS 2  HD
+http://electrocopperonline.com:8080/Paul/1234/9655
+#EXTINF:-1 tvg-ID="ext" tvg-name="LAT | FOX SPORTS 1  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="Deporte Latino",LAT | FOX SPORTS 1  HD
+http://electrocopperonline.com:8080/Paul/1234/9658
+#EXTINF:-1 tvg-ID="ext" tvg-name="LAT | TNT SPORTS  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTASbLZ8DcOaNk8xGuprC2DTt0HI8DIVufgdQ&usqp=CAU" group-title="Deporte Latino",LAT | TNT SPORTS  HD
+http://electrocopperonline.com:8080/Paul/1234/9661
+#EXTINF:-1 tvg-ID="ext" tvg-name="LAT | TYC SPORTS  INTERNACIONAL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deporte Latino",LAT | TYC SPORTS  INTERNACIONAL HD
+http://electrocopperonline.com:8080/Paul/1234/9663
+#EXTINF:-1 tvg-ID="ext" tvg-name="LAT | TYC SPORTS  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deporte Latino",LAT | TYC SPORTS  HD
+http://electrocopperonline.com:8080/Paul/1234/9664
+#EXTINF:-1 tvg-ID="ext" tvg-name="LAT | WIN SPORTS +  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNGOFuHiTeL2e_ycDR_0CKEK2gr71AiQBjYw&usqp=CAU" group-title="Deporte Latino",LAT | WIN SPORTS +  HD
+http://electrocopperonline.com:8080/Paul/1234/9667
+#EXTINF:-1 tvg-ID="ext" tvg-name="LAT | FOX SPORTS PREMIUM  HD" tvg-logo="https://www.jonatanalmeira.com/wp-content/uploads/2021/04/Fox-Sports-Premium-en-vivo-GRATIS.jpg" group-title="Deporte Latino",LAT | FOX SPORTS PREMIUM  HD
+http://electrocopperonline.com:8080/Paul/1234/9670
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: Az Clic" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/58/Azclic2017.png" group-title="MEXICO",MX: Az Clic
+http://electrocopperonline.com:8080/Paul/1234/9762
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: Azteca 7" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="MEXICO",MX: Azteca 7
+http://electrocopperonline.com:8080/Paul/1234/9763
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: Hola TV" tvg-logo="https://static.epg.best/co/HolaTv.co.png" group-title="MEXICO",MX: Hola TV
+http://electrocopperonline.com:8080/Paul/1234/9764
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: Mas Chic" tvg-logo="https://masideas.com/files/2015/06/MAS-CHIC.-LOGOTIPO.png" group-title="MEXICO",MX: Mas Chic
+http://electrocopperonline.com:8080/Paul/1234/9765
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: GALA TV" tvg-logo="https://static.epg.best/mx/GalaTV9Nacional.mx.png" group-title="MEXICO",MX: GALA TV
+http://electrocopperonline.com:8080/Paul/1234/9766
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: Unicable" tvg-logo="http://latinoamericatv.vip:8080/images/acc7de5cb8a06559a2da33ee9bec889e.png" group-title="MEXICO",MX: Unicable
+http://electrocopperonline.com:8080/Paul/1234/9767
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: AZ Corazon" tvg-logo="https://static.epg.best/mx/AzCorazon.mx.png" group-title="MEXICO",MX: AZ Corazon
+http://electrocopperonline.com:8080/Paul/1234/9768
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: Comedy Central" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7TNTdX_LycpJoLIlRhhsQs7iVQdf1XtQwwg&usqp=CAU" group-title="MEXICO",MX: Comedy Central
+http://electrocopperonline.com:8080/Paul/1234/9769
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: Garage TV" tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png" group-title="MEXICO",MX: Garage TV
+http://electrocopperonline.com:8080/Paul/1234/9770
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: Glitz" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/6e4c5c92881825.Y3JvcCwyNTAwLDE5NTUsMCwyMTA.png" group-title="MEXICO",MX: Glitz
+http://electrocopperonline.com:8080/Paul/1234/9771
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: Distrito Comedia" tvg-logo="http://latinoamericatv.vip:8080/images/83638af2c9b6018508790b0acde5e5e0.png" group-title="MEXICO",MX: Distrito Comedia
+http://electrocopperonline.com:8080/Paul/1234/9772
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: TL NOVELAS" tvg-logo="http://latinoamericatv.vip:8080/images/554ff866b856f3a00707a6331272a9b5.png" group-title="MEXICO",MX: TL NOVELAS
+http://electrocopperonline.com:8080/Paul/1234/9773
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: AZ Mundo" tvg-logo="https://www.broadcastbeat.com/wp-content/uploads/2017/05/MUNDO-logo.png" group-title="MEXICO",MX: AZ Mundo
+http://electrocopperonline.com:8080/Paul/1234/9774
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: AZ Cinema" tvg-logo="https://farm2.staticflickr.com/1704/25634859013_42315466b0_o.png" group-title="MEXICO",MX: AZ Cinema
+http://electrocopperonline.com:8080/Paul/1234/9775
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: Sundance TV" tvg-logo="https://static.epg.best/mx/SundanceTV.mx.png" group-title="MEXICO",MX: Sundance TV
+http://electrocopperonline.com:8080/Paul/1234/9776
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: Mexiquice" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/155c873f-0fb8-40bb-be1c-052c72d15836.png" group-title="MEXICO",MX: Mexiquice
+http://electrocopperonline.com:8080/Paul/1234/9777
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: TELEVISA MONTERREY" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png" group-title="MEXICO",MX: TELEVISA MONTERREY
+http://electrocopperonline.com:8080/Paul/1234/9778
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: Hola TV" tvg-logo="https://static.epg.best/co/HolaTv.co.png" group-title="MEXICO",MX: Hola TV
+http://electrocopperonline.com:8080/Paul/1234/9779
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: Mas Chic" tvg-logo="https://masideas.com/files/2015/06/MAS-CHIC.-LOGOTIPO.png" group-title="MEXICO",MX: Mas Chic
+http://electrocopperonline.com:8080/Paul/1234/9780
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: GALA TV" tvg-logo="https://static.epg.best/mx/GalaTV9Nacional.mx.png" group-title="MEXICO",MX: GALA TV
+http://electrocopperonline.com:8080/Paul/1234/9781
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: Unicable HD" tvg-logo="http://latinoamericatv.vip:8080/images/acc7de5cb8a06559a2da33ee9bec889e.png" group-title="MEXICO",MX: Unicable HD
+http://electrocopperonline.com:8080/Paul/1234/9782
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: ESTRELLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png" group-title="MEXICO",MX: ESTRELLA TV
+http://electrocopperonline.com:8080/Paul/1234/9783
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: FORO TV" tvg-logo="https://static.epg.best/mx/ForoTv.mx.png" group-title="MEXICO",MX: FORO TV
+http://electrocopperonline.com:8080/Paul/1234/9784
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: CINE LATINO" tvg-logo="https://static.epg.best/mx/CineLatino.mx.png" group-title="MEXICO",MX: CINE LATINO
+http://electrocopperonline.com:8080/Paul/1234/9785
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: CANAL ONCE" tvg-logo="https://static.epg.best/mx/CanalOnce.mx.png" group-title="MEXICO",MX: CANAL ONCE
+http://electrocopperonline.com:8080/Paul/1234/9786
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: AZTECA UNO HD" tvg-logo="https://static.epg.best/mx/AztecaUno.mx.png" group-title="MEXICO",MX: AZTECA UNO HD
+http://electrocopperonline.com:8080/Paul/1234/9787
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: MILENIO TV" tvg-logo="https://en.wikipedia.org/wiki/Milenio_Televisión#/media/File:Milenio_Television.png" group-title="MEXICO",MX: MILENIO TV
+http://electrocopperonline.com:8080/Paul/1234/9788
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: De Pelicula" tvg-logo="https://adminweb.onlycable.es/img/Canale/small/De-pelicula/De-pelicula_.png" group-title="MEXICO",MX: De Pelicula
+http://electrocopperonline.com:8080/Paul/1234/9789
+#EXTINF:-1 tvg-ID="ext" tvg-name="MX: DE PELICULAS PLUS" tvg-logo="http://latinoamericatv.vip:8080/images/8169a21543e3399cf0fae85dadbc21cd.png" group-title="MEXICO",MX: DE PELICULAS PLUS
+http://electrocopperonline.com:8080/Paul/1234/9790
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | A+" tvg-logo="http://l3d.us:8080/images/0cc175b9c0f1b6a831c399e269772661.png" group-title="MEXICO",M | A+
+http://electrocopperonline.com:8080/Paul/1234/9791
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | A+ FHD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/a.png" group-title="MEXICO",M | A+ FHD
+http://electrocopperonline.com:8080/Paul/1234/9792
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | A+ HQ" tvg-logo="http://l3d.us:8080/images/0cc175b9c0f1b6a831c399e269772661.png" group-title="MEXICO",M | A+ HQ
+http://electrocopperonline.com:8080/Paul/1234/9793
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | Azteca 7 HD" tvg-logo="http://l3d.us:8080/images/e47965de2852d6b7c244d1fb621a12e2.png" group-title="MEXICO",M | Azteca 7 HD
+http://electrocopperonline.com:8080/Paul/1234/9796
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | Azteca Clic HD" tvg-logo="http://l3d.us:8080/images/058f6f7297e8817251a783cd39360a27.png" group-title="MEXICO",M | Azteca Clic HD
+http://electrocopperonline.com:8080/Paul/1234/9797
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | Azteca Corazon HD" tvg-logo="http://l3d.us:8080/images/b67239f702e80e73304d06d074d64067.png" group-title="MEXICO",M | Azteca Corazon HD
+http://electrocopperonline.com:8080/Paul/1234/9800
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | Azteca HD" tvg-logo="http://l3d.us:8080/images/1f9d20cd0e5ef880530e9d821ebb1921.png" group-title="MEXICO",M | Azteca HD
+http://electrocopperonline.com:8080/Paul/1234/9801
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | Azteca Uno" tvg-logo="http://l3d.us:8080/images/1f9d20cd0e5ef880530e9d821ebb1921.png" group-title="MEXICO",M | Azteca Uno
+http://electrocopperonline.com:8080/Paul/1234/9805
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | Cadena H" tvg-logo="https://i.ibb.co/bvGtpMX/cadenah.png" group-title="MEXICO",M | Cadena H
+http://electrocopperonline.com:8080/Paul/1234/9809
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | Azteca Uno HD" tvg-logo="http://l3d.us:8080/images/1f9d20cd0e5ef880530e9d821ebb1921.png" group-title="MEXICO",M | Azteca Uno HD
+http://electrocopperonline.com:8080/Paul/1234/9810
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | Cadena H FHD" tvg-logo="https://i.ibb.co/bvGtpMX/cadenah.png" group-title="MEXICO",M | Cadena H FHD
+http://electrocopperonline.com:8080/Paul/1234/9811
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | Canal 15 Fresnillo" tvg-logo="https://storage.googleapis.com/digitalnetwork-268222.appspot.com/images/logo_GrupoB15_color_alpha.max-200x140.png" group-title="MEXICO",M | Canal 15 Fresnillo
+http://electrocopperonline.com:8080/Paul/1234/9812
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | CANAL 26 Aguascalientes" tvg-logo="https://i.ibb.co/LYTbKgH/televisa.png" group-title="MEXICO",M | CANAL 26 Aguascalientes
+http://electrocopperonline.com:8080/Paul/1234/9813
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | Canal 4 FHD" tvg-logo="https://i.ibb.co/DbnRDKn/canal4.png" group-title="MEXICO",M | Canal 4 FHD
+http://electrocopperonline.com:8080/Paul/1234/9815
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | Canal 5" tvg-logo="http://l3d.us:8080/images/daa2f5f764534c728802320fd2d9e91c.png" group-title="MEXICO",M | Canal 5
+http://electrocopperonline.com:8080/Paul/1234/9816
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | Canal 53 UANL" tvg-logo="http://l3d.us:8080/images/d82c8d1619ad8176d665453cfb2e55f0.png" group-title="MEXICO",M | Canal 53 UANL
+http://electrocopperonline.com:8080/Paul/1234/9819
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | CANAL 8" tvg-logo="https://i.ibb.co/XX2QPtD/canal8.png" group-title="MEXICO",M | CANAL 8
+http://electrocopperonline.com:8080/Paul/1234/9822
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | Canal Once" tvg-logo="https://image.ibb.co/f2Np80/once.png" group-title="MEXICO",M | Canal Once
+http://electrocopperonline.com:8080/Paul/1234/9826
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | CBTV Michoacan" tvg-logo="http://l3d.us:8080/images/8bc62c72428f6467d4557db776d8fe6e.png" group-title="MEXICO",M | CBTV Michoacan
+http://electrocopperonline.com:8080/Paul/1234/9829
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | Estudio 5" tvg-logo="http://estudio5.tv/public/img/logo_estudio5.png" group-title="MEXICO",M | Estudio 5
+http://electrocopperonline.com:8080/Paul/1234/9830
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | HLN" tvg-logo="https://i.ibb.co/nwN1CqZ/hln.png" group-title="MEXICO",M | HLN
+http://electrocopperonline.com:8080/Paul/1234/9831
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | Las Estrellas" tvg-logo="http://l3d.us:8080/images/701de93ed49e82d893619e2740c0856c.png" group-title="MEXICO",M | Las Estrellas
+http://electrocopperonline.com:8080/Paul/1234/9836
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | Mexicanal" tvg-logo="http://l3d.us:8080/images/7c0358686b123301c38a4020b24b99b3.png" group-title="MEXICO",M | Mexicanal
+http://electrocopperonline.com:8080/Paul/1234/9841
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | MVS TV" tvg-logo="https://www.mvs-marketing.com/wp-content/uploads/2019/05/Logo_MVS_TV_Color_sitio.png" group-title="MEXICO",M | MVS TV
+http://electrocopperonline.com:8080/Paul/1234/9852
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | Nu9ve" tvg-logo="http://l3d.us:8080/images/c9b05a7322230f4102413df5cfdc4791.png" group-title="MEXICO",M | Nu9ve
+http://electrocopperonline.com:8080/Paul/1234/9854
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | Telemax" tvg-logo="https://www.telemax.com.mx/wp-content/themes/multinews/images/logo.png" group-title="MEXICO",M | Telemax
+http://electrocopperonline.com:8080/Paul/1234/9862
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | TeleVer FHD" tvg-logo="http://l3d.us:8080/images/3dc0bf7f0a9fee0dddd9b37610ff3f08.png" group-title="MEXICO",M | TeleVer FHD
+http://electrocopperonline.com:8080/Paul/1234/9864
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | A+ HQ" tvg-logo="http://l3d.us:8080/images/0cc175b9c0f1b6a831c399e269772661.png" group-title="MEXICO",M | A+ HQ
+http://electrocopperonline.com:8080/Paul/1234/9867
+#EXTINF:-1 tvg-ID="ext" tvg-name="M | Azteca 7 HD" tvg-logo="http://l3d.us:8080/images/e47965de2852d6b7c244d1fb621a12e2.png" group-title="MEXICO",M | Azteca 7 HD
+http://electrocopperonline.com:8080/Paul/1234/9870
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | Cable Noticias HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1GzlZAdukQfSl9TUU7S3PJGYDVO5-KdlJpbkQLPb7PJXnX3OJjn1u3voKy_AsyY5mw.png" group-title="Colombia",COLOMBIA | Cable Noticias HD
+http://electrocopperonline.com:8080/Paul/1234/11144
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | Cali TV" tvg-logo="http://quebuscasaqui.xyz:8080/images/c0d675501dbe7c140142b6fe824e3f07.png" group-title="Colombia",COLOMBIA | Cali TV
+http://electrocopperonline.com:8080/Paul/1234/11145
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | Canal Capital HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1GFQvL_UHLVo723IMNwJwRH_rApDxbuhOUNPTsCBobZrLLT3wTPBPtEGRbpC653NbA.png" group-title="Colombia",COLOMBIA | Canal Capital HD
+http://electrocopperonline.com:8080/Paul/1234/11146
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | CANAL CNC" tvg-logo="https://th.bing.com/th/id/OIP.EmG3jwZ4wk4eo18OTtsyfAHaFj?pid=ImgDet&rs=1" group-title="Colombia",COLOMBIA | CANAL CNC
+http://electrocopperonline.com:8080/Paul/1234/11147
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | Canal Tro (L)" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1O9P7PZUgQ04bYRnCh6Hayw9h6Tl2QjLmeJRC_7SBrFl.png" group-title="Colombia",COLOMBIA | Canal Tro (L)
+http://electrocopperonline.com:8080/Paul/1234/11149
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | Canal Uno HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t1ecMqO2rTq-g_ICitimcrDQeZL5mMjrZnYJ5jnZlYCOw.png" group-title="Colombia",COLOMBIA | Canal Uno HD
+http://electrocopperonline.com:8080/Paul/1234/11150
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | Cantinazo" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwW1BheSofQFc4VQenC9-xEXEA4Jh-DKJK1sIQflXXBgsg.png" group-title="Colombia",COLOMBIA | Cantinazo
+http://electrocopperonline.com:8080/Paul/1234/11151
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | Cantinazo HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwW1BheSofQFc4VQenC9-xEXEA4Jh-DKJK1sIQflXXBgsg.png" group-title="Colombia",COLOMBIA | Cantinazo HD
+http://electrocopperonline.com:8080/Paul/1234/11152
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | Caracol HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFW1Gw68odcPG5VCXBUpaiGofTR1paOvyrtRo2naSz9X8w.png" group-title="Colombia",COLOMBIA | Caracol HD
+http://electrocopperonline.com:8080/Paul/1234/11157
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | Caracol Internacional HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/fb6d0408ee2c871b8fc41b9a90b3bdd8.png" group-title="Colombia",COLOMBIA | Caracol Internacional HD
+http://electrocopperonline.com:8080/Paul/1234/11158
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | City TV" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1O9P7PZUgQ04bYRnCh6Hayyh9lvqHOeZQaIg86MelPFqEfFzzoQ3r94IUFCa60sGpQ.png" group-title="Colombia",COLOMBIA | City TV
+http://electrocopperonline.com:8080/Paul/1234/11159
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | Cosmovision" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1GAaOpsJ3S5sUlYg-N4IL-_6daeCI_uDZ9PsYyV08HKoDegumrMV76pJbX9FxMtV4w.png" group-title="Colombia",COLOMBIA | Cosmovision
+http://electrocopperonline.com:8080/Paul/1234/11160
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | DHE HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwVoLMEWQnot4mqGcUwyWZnFhXO35_67iKtBR-Ea4LX05g.png" group-title="Colombia",COLOMBIA | DHE HD
+http://electrocopperonline.com:8080/Paul/1234/11161
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | El Tiempo" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhGOKpqLZUqZlUAGLR104oBss5zJdzlXvYKHjhaxlsZ1Lw.png" group-title="Colombia",COLOMBIA | El Tiempo
+http://electrocopperonline.com:8080/Paul/1234/11162
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | La Kalle HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/1577cf97da69a1cfb61eb12c7c04a5a5.png" group-title="Colombia",COLOMBIA | La Kalle HD
+http://electrocopperonline.com:8080/Paul/1234/11163
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | NTN 24" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1GAaOpsJ3S5sUlYg-N4IL-8PtaT_Oz6pJcZwn3ukPQNPdWyLmyRgALHZMpQx1iB_Cg.png" group-title="Colombia",COLOMBIA | NTN 24
+http://electrocopperonline.com:8080/Paul/1234/11164
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | RCN FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFWlRXNEJkItg77SInHy9X4C8xKPg7bR3o9aiYfBN7XdSg.png" group-title="Colombia",COLOMBIA | RCN FHD
+http://electrocopperonline.com:8080/Paul/1234/11165
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | RCN HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFWlRXNEJkItg77SInHy9X4C8xKPg7bR3o9aiYfBN7XdSg.png" group-title="Colombia",COLOMBIA | RCN HD
+http://electrocopperonline.com:8080/Paul/1234/11166
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | RCN Internacional" tvg-logo="http://quebuscasaqui.xyz:8080/images/c40c138ebbee71f5678cf48bf5d95bc6.png" group-title="Colombia",COLOMBIA | RCN Internacional
+http://electrocopperonline.com:8080/Paul/1234/11170
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | RCN Novelas" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1GAaOpsJ3S5sUlYg-N4IL--J0lWzDg4G9uyC3s_juxwGeNRa-eAHXuP9NimcxEeOzw.png" group-title="Colombia",COLOMBIA | RCN Novelas
+http://electrocopperonline.com:8080/Paul/1234/11171
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | RED MAS + (L)" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhHLWgnI4eeqcMHENcUPgNY_TWUeRSckZffVR9pow-EucA.png" group-title="Colombia",COLOMBIA | RED MAS + (L)
+http://electrocopperonline.com:8080/Paul/1234/11173
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | Telecaribe HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1O9P7PZUgQ04bYRnCh6HayyyG8WqUP2IOGO4cCa8lJnUSnAQea9650hS8YKrJdmFdA.png" group-title="Colombia",COLOMBIA | Telecaribe HD
+http://electrocopperonline.com:8080/Paul/1234/11178
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | WIN SPORTS + HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFVtoKNjwldNSQ-GL_0IYqzoDlslYF6AU8x1f7VSKnrEYg.png" group-title="Colombia",COLOMBIA | WIN SPORTS + HD
+http://electrocopperonline.com:8080/Paul/1234/11185
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | WinSports HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwXxak1il5IvoBwroVcnWx8k7qh8iR1hquNuYjSZrZAmaA.png" group-title="Colombia",COLOMBIA | WinSports HD
+http://electrocopperonline.com:8080/Paul/1234/11189
+#EXTINF:-1 tvg-ID="ext" tvg-name="COLOMBIA | Zoom tv (L)" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1GAaOpsJ3S5sUlYg-N4IL-8t1golCzYVnNwa-pAG9rliauzu0e7EGgSL7zsuzhJRrQ.png" group-title="Colombia",COLOMBIA | Zoom tv (L)
+http://electrocopperonline.com:8080/Paul/1234/11190
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE | CINE LATINO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLWKA2w7UzyAaT3-EA29E7bvcPQ9SsvHoMQ&usqp=CAU" group-title="CINE LATINO",CINE | CINE LATINO
+http://electrocopperonline.com:8080/Paul/1234/17156
+#EXTINF:-1 tvg-ID="ext" tvg-name="P | UNIVERSAL COMEDY HD" tvg-logo="http://daleplay.club:8080/images/10960c1507792b39f21c3a1066a426a9.png" group-title="CINE LATINO",P | UNIVERSAL COMEDY HD
+http://electrocopperonline.com:8080/Paul/1234/17157
+#EXTINF:-1 tvg-ID="ext" tvg-name="P | UNIVERSAL PREMIER HD" tvg-logo="http://daleplay.club:8080/images/f8ad17fe253c743c4d755af0d8675f77.png" group-title="CINE LATINO",P | UNIVERSAL PREMIER HD
+http://electrocopperonline.com:8080/Paul/1234/17158
+#EXTINF:-1 tvg-ID="ext" tvg-name="P | UNIVERSAL REALITY HD" tvg-logo="http://daleplay.club:8080/images/b5cd18267789d07c58596bcae4f0055f.png" group-title="CINE LATINO",P | UNIVERSAL REALITY HD
+http://electrocopperonline.com:8080/Paul/1234/17159
+#EXTINF:-1 tvg-ID="ext" tvg-name="P | UNIVERSAL CINEMA HD" tvg-logo="http://daleplay.club:8080/images/2f9119fd3e55f3968f4c683b2e9916d9.png" group-title="CINE LATINO",P | UNIVERSAL CINEMA HD
+http://electrocopperonline.com:8080/Paul/1234/17160
+#EXTINF:-1 tvg-ID="ext" tvg-name="P | UNIVERSAL CRIMEN HD" tvg-logo="http://daleplay.club:8080/images/ddab0de6d960b6f7ce2b83fcf5c7392d.png" group-title="CINE LATINO",P | UNIVERSAL CRIMEN HD
+http://electrocopperonline.com:8080/Paul/1234/17161
+#EXTINF:-1 tvg-ID="ext" tvg-name="P | UNIVERSAL  KIDS HD" tvg-logo="http://daleplay.club:8080/images/74936588dc13c9253e21564bc42c12d1.png" group-title="CINE LATINO",P | UNIVERSAL  KIDS HD
+http://electrocopperonline.com:8080/Paul/1234/17162
+#EXTINF:-1 tvg-ID="ext" tvg-name="DHE" tvg-logo="http://daleplay.club:8080/images/d61eed6287d6b17cc3229fb6c4fe084f.png" group-title="CINE LATINO",DHE
+http://electrocopperonline.com:8080/Paul/1234/17163
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE | STAR CHANEL FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUSC9j9pUIeP68TVeZFtU_BOi3beYtu0zAw&usqp=CAU" group-title="CINE LATINO",CINE | STAR CHANEL FHD
+http://electrocopperonline.com:8080/Paul/1234/17164
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE  | A&E HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU" group-title="CINE LATINO",CINE  | A&E HD
+http://electrocopperonline.com:8080/Paul/1234/17166
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE  | CINEMAX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="CINE LATINO",CINE  | CINEMAX HD
+http://electrocopperonline.com:8080/Paul/1234/17169
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE | STAR CHANNEL  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUSC9j9pUIeP68TVeZFtU_BOi3beYtu0zAw&usqp=CAU" group-title="CINE LATINO",CINE | STAR CHANNEL  HD
+http://electrocopperonline.com:8080/Paul/1234/17171
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE  | HBO 2  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lZ0U7y83aMg8VcxHcLWyr8k4eK-vVK_TPw&usqp=CAU" group-title="CINE LATINO",CINE  | HBO 2  HD
+http://electrocopperonline.com:8080/Paul/1234/17174
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE | HBO SIGNATURE  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd8X6vH9jsyuXvtYEs56bNO1NlDkim-SJkQg&usqp=CAU" group-title="CINE LATINO",CINE | HBO SIGNATURE  HD
+http://electrocopperonline.com:8080/Paul/1234/17177
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE  | HBO PLUS  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSFTnuKd-uu1XQztepY5vFZUBhKCp8-Okbsg&usqp=CAU" group-title="CINE LATINO",CINE  | HBO PLUS  HD
+http://electrocopperonline.com:8080/Paul/1234/17180
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE | HBO FAMILY  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="CINE LATINO",CINE | HBO FAMILY  HD
+http://electrocopperonline.com:8080/Paul/1234/17183
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE | HBO  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtbjnKsynnCmmwzyL97_V5eVimvq_l9nScg&usqp=CAU" group-title="CINE LATINO",CINE | HBO  HD
+http://electrocopperonline.com:8080/Paul/1234/17186
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE  | HBO POP  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="CINE LATINO",CINE  | HBO POP  HD
+http://electrocopperonline.com:8080/Paul/1234/17189
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE  | TNT  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="CINE LATINO",CINE  | TNT  HD
+http://electrocopperonline.com:8080/Paul/1234/17192
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE | TNT SERIES  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="CINE LATINO",CINE | TNT SERIES  HD
+http://electrocopperonline.com:8080/Paul/1234/17195
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE | CINECANAL  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU" group-title="CINE LATINO",CINE | CINECANAL  HD
+http://electrocopperonline.com:8080/Paul/1234/17198
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE | AXN  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title="CINE LATINO",CINE | AXN  HD
+http://electrocopperonline.com:8080/Paul/1234/17201
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE | WARNER  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="CINE LATINO",CINE | WARNER  HD
+http://electrocopperonline.com:8080/Paul/1234/17204
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE | SONY  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title="CINE LATINO",CINE | SONY  HD
+http://electrocopperonline.com:8080/Paul/1234/17207
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE | TCM  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5C2mxnbZhloXPJ9g7G5nwhyJmJNq06VlqpQ&usqp=CAU" group-title="CINE LATINO",CINE | TCM  HD
+http://electrocopperonline.com:8080/Paul/1234/17210
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE | UNIVERSAL CHANEL  HD" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIQEhUQEhMWFRUWGBgaFhcYGRUVFxoYGBgaHhYVGB0YHSggGholHhcYIjIhJSkrLi4vGCAzODMtNygtLisBCgoKDg0OGxAQGi0lICYtLS0rLS0tLS4tLy0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLTUtLS0tLS0tLS0tLS0tLf/AABEIAMIBAwMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABgcEBQgDAgH/xABNEAABAwIDBAYDDAYHCAMAAAABAAIDBBEFEiEGBzFBEyIyUWFxFIGRFSNCUmJygpKhscHRM0NTc7KzCDVUk9Ph8BYXJGN0g6LDNmSU/8QAGQEBAAMBAQAAAAAAAAAAAAAAAAECAwQF/8QAKBEAAwACAgIBBAICAwAAAAAAAAECAxESITFBUQQTIjIUgWHBQkNx/9oADAMBAAIRAxEAPwC8UREAREQBERAEREAREQBEXlPUMYMznADxNkB6oo9W7WQs0YHPPhoPafyWiqtr6g9lrG+ouP2m32K6x0y6hsny/C4d4VV1OPVbv1zh82zfuCwJ8Sqjr08v13j7itFgfyXWFv2XGHDvX6qRfidUNRUTf3j/AMSv2Payvi7M7j84Nd94U/x38lv47+S7UVR0W8+qjNpomSDwvG78R9ilGFby6KWzZC6B3yx1frC4HrsqVgteilYbn0TRF509QyRocxwc08C0gj2heiyMgiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgC+JZQ0FziABxJUQ2/2+iwsCNrRLUOF2x3sGj48h5DuA1Plqq3qd6s8599gbl+Kx7hbx1BuVecbospbLUxPaT4MI+keHqHP1qNVMz5Dme4uPj+HctLhO1FPUuDGksedAx4sSe4EXB8uKl+HYBJL1ndRveePqWySnyapKfJoy1ekOHSSHqscfUp3RYFDF8HMe86/Ytk1oGgFlV5fgh5fggEeylQ74IHmQvX/YqU8XtCnaKv3qK/dor+XYaX47T9i1lZsTUjgwO8jcq00UrPRZZqRQ+JYFLHfPG5vmNPaFoailLV0nJG1ws4AjxF1HsY2LpqgEhuR3e1bR9T8m8fVL2ikMKxioonZ4JHMPMDVp+c06FWfstvQimtFVgQv4CQfoj531Z69PFRbabYWenu4DOz4zR94UJljIW7iMq2bVijKto6ia4EAg3B4EcF+qgtjtuJ8PIYbywc4ydW+MZPD5vDyV4YPi0NXE2eB4ex3PmDzaRxBHcuHJiqH2cGTG4fZmoiLIzCIiAIiIAiIgCIiAIiIAiIgCIiAKG7xtt2YZFkZZ1S8e9sPBo4dI7wHIcyFudrtoY8Opn1MmpGjG83vPZaPxPIArmfFMRlq5n1Ezs0jzcnkBya3uaOAC0xxyLxOzyqqmSeR0sri97zdznG5JP+uC2mzuz09dKIoW3+M49lo7yfw5+VyPvZbZ6WvmEEQ8Xu5Nb3+fGw8O4G3ROzeAQ0EIhibb4zubjzJPMrou1C0a1SlGq2P2Gp8Pbe2eUjrSOFz5DuHh951UrRFyOm3tmDbfkIiKCAiIgCIiAIiID8c0HQ6hQbbHYCOoBlgAZJxI5O/z/wBaqdIrRbl7ReLqHtHMVfRvheY5Glrm8QVsdldpJsPmEsZJYT75Hfqvb+DwOBVx7bbIx18Zc0BszR1Xd/ge8Kiq2kfC90UjS1zTYj/XJejFzlnTPSx3Oae/7OkMFxWKrhZUQuzMeNORB5tI5EHSyzlQGwO1Rw6oAef+HlIEo5NPASjy4Hw8lfrHhwBBuDqCNQQuDLjcVo8/LjeOtH0iIszIIiIAiIgCIiAIiIAiIgCIohvT2g9CoJC02lm96j7wXDrOHk2587KUtvRKWyo96e1HuhVljDeCAlkfc53w5PWRYeA8VGKGkfK9sUYzPeQ1o7yfw538FixhW9uW2aBzV8g72xX8O072i3qPeuzqJ2brUrZPNiNmGYdTtjGsjtZHW1Ljx9Xh4BSJEXG229swb29hERQQEREAREQBERAEREAREQBQHedsn6RH6VE331g6wHwm8x593+ZU+X44XFjwKvFuHtF8duK5I5bcAQra3N7S9LE6gkPXhF4yTq6Lu+idPItUR3j7P+h1RLR73LdzfA/CH239Z7lG8IxR1FUw1Tb+9uBcBzYdHt8btJ9dl3ZZWSNo9DPKyY+SOnUXlTTtkY2Rhu1wDmnvBFwV6rzjzAiIgCIiAIiIAi8pqhjLZ3tbfhcgX9qQ1LH9h7XW42IP3ID1RCsb3Qh/ax/Xb+aAyVQ2+/FumrW0wPVgYLj5cmrv/EMV6S1LGWzPa2/C5Av5XUUq9gcKq5ZJ3R9JI92Z7hPNxPg2Sw8h3K8NJ7ZaWk9s59w6jdNIyJnae4NHPibX8hx9S6kwTDm00EcDBYMaB7AtJhe73DqaVs8UBD2G7SZZngEgjg55B0J5KQHEIf2sf1m/mr5MirpFrvfgyUXlJUsaAXPaAeBJAB8r8V8srInXtIw2FzZzTYDiTroFiZnuixvdCH9rH9dv5rJBQBF8ySBozOIAHEk2H2rwFfEdBKz6zfzQGSi8JK2JpyukYCOILmg/evn3Qh/ax/Xb+aAyUWN7oQ/tY/rt/NenpLMufO3L8a4y93HggPVFje6EP7WP67fzX62uiOgkYfpN/NAZCIiAIsGvxmmpzaaohiPdJIxh/wDIhfdDicE+sM0cvzHtf/CSgI/vKwb0qieQLvj67O/TiB5i49aoGUXC6nkYHAtPAixUTfu1ws6mnPqlnH3PXVhzqZc0dWHOphyzA3M4t09AISetTvMf0T1meqxt9FT1RbAMOwvDnSejSRxl9g8GoL+ze2j3mxFzwUnjeHAOaQQRcEagg8CDzC56ab2jmp7fR9IixvdCH9rH9dv5qpBkogKIAiIgKY/pDNBfQ3Hwaj74V5f0fGgT1dhb3uL+J69v6Qnbofm1H3wry/o/fp6v93F/E9b/APWaf8S5qrsO+afuXHXRjJwHZ7vBdi1XYd80/cuPf1f0fwUYfYgtrf20E0Fx+rm/9Kg2xW0smF1LaiMXYerLGNA9nd3ZhxB7/AlTrfzxoP3c3/pVYw0Uj45JmtJZEYxIR8HpC4MJ8CWkX7yO9Xj9SZ8HWGF4jFVRMqIXB8cjQ5pHceR7iOBB1BBC5JxFgzy6Dtv5fKKnu6jbb0Cb0ad3/DSu4nhFIdA/wYeDu7Q8jeCYj25fnP8A4ioieLYlaZbO+VoOG4d5t/kLTbiqdjq6djmgtdSyBwtoQZIgQfBbrfJ/V2Hebf5C1O4X+sJf+mf/ADYVC/QhfqQfaXA/QqqakcP0TyGkjUsOsbj4lhafO66D3U416XhsJJu+H3l/M3jsGk+JYWH1lQrf3gdnQV7Rx95l+10Tv4xf5oWu3E410VXJRuPVnZmZ+8j1sPEsLj/2wlflGw+5JFv6xnJTxUQOszs7x/y4rEA+by0/QKgu57Z8VWIskc0dHTDpXaC2e9om+ea7v+2Vh7zcZ9MxKd4N2RnoY/mxEh3teXnyIVubmcD9Gw9szh16k9Ke/Ja0Q8svW+mU/WB4kqLeowHFqu4Haj/kxrWYdslWVEYmhpJJI3Xyva0EHKSDbyII9S2u9P8Arar+dH/JjWx2V3n1GH0zKSOCJ7WF5DnF4Jzvc83tpxdb1K+3xWiy3ro0X+wWI/2Cb6o/NT6uw2Wm2WfDPGY3iRpLHCxAdWNI+whYZ321f9lg+tIpjvOqzNgLpiADI2leQOALpYiQPDVUbra2VbfWygqOgdM9sUUZe93Za1t3GwJNgOOgJ9S2FVslWxNMklFO1o1c4xPsBzJ00HiVl7A18dNiNNPM7JGxzi5xBNgY3gcATxI9qvCr3o4VGwuFR0hA0YyOUuce4XaAPMkDxVqpp9Is20UpsbtrU4ZI0se58Fx0kBJLC3nkB0Y/uItwF7hWjvf2zkpoIYKV5a6paXmVujmxC1sh5Odm7XEAG1jYijpTneSxli9xyxt1tmd1Y2248QArU3r7JTspKKZrS8U1O2Ge2paGtbaTTi24dc8rg8LkRSXJENLZXmB7OVeIOf6NC6ZzbGQ5mN1dexc6RwBJsed9CvzFtn6ygcHzwSQEHqycgeWWRhLQfI3XrsxtTVYc5z6WQND7Z2uAex9r5bg66XOoIOqsDDN82cdHXUjHsdo4xG4I/dyXBH01ZukS9k+3ZtrfQY3V0he9/WYHD3xsZAyCQ8XOPHXUXAOqyN4GPegUM04NpCMkX7x+jT45dXHwaVtMExiCthbUU7w+N3MXBBHFrgdWuHcVTO/THumqo6Jh6sAzP/eyDQH5rLf3hWErlRmltlYBg7l0DuTx70ih9GcbvpTk8eidcxHyFnM+gFWmEbFmbB6nEbHOx4dF4xQ3E59d3euEd68N1uPehYhE5xtHN7zJ3WeRkd6nhuvIFy2v8ky9do6TfwPkuOBGMnAdnu8F2O/gfJcdD9H9H8FTD7Ig7Aov0bPmt+4L3XhRfo2fNb9wXusTMIiICo/6QVE4x0k47LHSxnzkDXN/lOUR3SbTw4fVv9IOWKZgaX6kNc03YXW4NN3AnlccrlX1j+DRV0D6aYXY8a20cCNWuaeTgQCPJUTju6fEadx6FgqY+TmOax1vlMeRY/NLltDTnizSWtaZae1O8KggppHRVMM0pY4RxxPbIS8jq5shOVt9ST99gudKOjdM9kDNXSObG3zeQ0faVI4N3uKvNhRSDxc6Jo9rnq0N3G7L0GQVdW5r52g9GxlyyO4sXEkDM+xtwsLnjoRKcwuh1Jof6QDbPoQOTJx9sK+Nw9Kyb3QikaHsfHA1zTqC09MCCt7vl2WrK99K6lhMojbMH9eJlsxjy9twvfKeHcv3c1stWUD6o1UJiEghDOvE++Uy5uw42tmbx71G1wI3+JWW3+yL8LqTHq6B93QPPNvNjvltuAe8WPOwi0nA+RXVm1Wz0OI07qaYaHVjx2mPHZe3xF+HMEjgVQlTuuxYFzRS5wCQHNlgDXW0DhmkBAPHUAq0Wmuy018kv3yf1dh3m3+QtTuF/rCX/pn/AM2FS7eZsvWVdFRQ08PSSRFvSNzxty2iynV7gDr3Fa7dFsfXUNZJNVQGJhgcwOzwvu4yRkCzHk8Gn2Kqa4EJ/iWLtdgorqOalNrvYchPKQaxu9TgCuX6CslpZmzMJZLE64vxa4XBaR7QR5rrhUXvF3d1j6+WajpzJFNaQlro25ZHX6RtnOBuSM1/lqMdemRD9EF2XwY11XDSC9pHgPPMRjWR1+/KHeuy6sijDQGtFgAAAOAA4AKrdzuxU9HJNVVcRjkyiOJpLHHKSHSO6pI1swDno7vVqKMlbZFPbOZ96f8AW1X86P8AkxqU7CYRgMtFE+ufAKgmTOH1L4nWEjwy7BK0DqBvLXivLeBsHiVTiNTUQUxfG9zC13SQNuBExp0c8EatPEKP/wC7LF/7Gf72m/xFptOV2X9eSxP9n9lv2tN/+2T/ABlmby6infgUvosjJIWmBjCx4kbZk8Qy5gTci1uKq/8A3ZYv/Yz/AHtN/iKeQbI1o2fkoDB/xJlDhHni4dOx982bL2QTxVWktPZV/wDpUuz+EvramKlY5rXSkgF18os1ztba8GlZ22Gyk+FytinyuD25mPZfK62jgLgG4JFx8od6l2wOwWJU2IU081MWRsc4vd0kDrAxvA0a8k6kcArV262YZidK6A2Eg60Lz8GQcL/JOrT4E87KzvTLOtMq3cdR0Us7zK0mrj60OYgsycC5jbfpATqTewLSLaqzdt9tIMKYx0gMkj3ANiaQHFoIzv10AA7+JsNL3FNYXsHjdNNHUQ0pbJG4OaelprX5g++6tIJBHMEqwdsd3bsVDa0F1NVuY0SRSO6WO7R2LtJyWN9W3B45bklVpLltsq9bP1lHs7i4zgQskdqQHejTX5lzQW5j42I8VWe8bZqmw6aNlNUdMHtcXMJY58diLZiywIdc2uAeoeKV+7PFIiWml6QfGjfG9p8gXB3tAX1hm7HFJnBvo3Qt5ulexrR6mkuPqarLS9llpeyQ7lcW9FjxGWQnoYoo5HD5Q6Th8pwFvGw7lW2IVr55ZJ5Td8j3PeeV3G5A8Bew8AFbu0WwVVTYczD6CIzumkElXLmijzZAMjAJHizc1iAL2yG+p1wt2u7mrirWz11OGRxNcWhzopM0h6rQQxztAC468w1FS7oJryQmh2/xCCFtNFVBsTW5Ws6OnIy8wc0ZJvrqTc3UcABFhw4Lrn3Mg/Yx/Ub+SrPezsDNVSw1FDAHOylkrGmOPQG8b+sWg8XA8+yonIt+CFSJju+x/wBPw+KZxvI0GOXv6RgsSfnCz/J4XLwHU+j+CvLdHgOJUEs0VTTlkErcwd0kLssrdBox5PWaSCfkNVex7scXAA9DPAfrab/ESNJvsTpNl4Um3GGBjAa6nuGtv743u81kwbZ4dI5sbKyBznENa0SNJLnGzWgX1JJsqI/3Z4v/AGM/3tN/iLP2f3dYrFV00r6QtYyeF7z0tObNZI1zjYSXNgDwVXE/JDlfJ0MiIsigREQBERAFTNfvfq4ZpIXUsN43uYetJxa4i/2K5lz3vlwj0fETKBZlQ0PHzh1Xjz0B+ktMaTemXjTfZPtgN48mI1JppYmR3jc5haXG7mkXbr4En6KsZcr7N4qaOphqh+qeHEDiW8JAPEsLh611LDK17Q9pBa4AgjgQRcEKcsKX0TknXgie2u3ceHubAyMz1D7ERNNrAmzcxAJuTwaASbctCtJBvFrYpY46zDJGNlcGsLM+a7uAaHNs53ybgrX4MWt2lqPSLZiHdCXfHLI+jy359FnHtCteWRrbZiBcgC5Au48AL81L4zpa30HqddEW262ufhrqZrYmydO5zTdxblylguLA37f2Lb7UYqaOllqg0PMbbhpOUHUC17G3FQDfgHZqHL2s8uX514rfasHaqjx9tJMaueF0Ab741vR3IuOFogeNuYUzjTUslQmkWVsjjJrqSKqcwMMma7QcwGV7m8SBfs34c1G9vt4fubOyCOJsri3PJdxblBNmgWBu42cdfDvWZu0nbHhEEjyGtY2ZzieAa2WQkn1BVTTbS0c01fUVwkz1TCyINDHdG02LSczx1mhkVrfFPekY06fXSExun0dAUdSyaNksZzMe1rmnva4XB9hUIi3jtbiL6CeMRsDzG2bNfr6ZcwI6oPC9zrblcjG3KY701K6lcbvgPV53jfct87OzDwGVRaTZtuJYpiVPfK8B74nG9g8PjADu9pBIPnfiEmEqaoKUm0yw9vdrXYYIC2ISdK8tN3FtrW10BvxXrvA2pdhkEczYhKXyiOxcWAXY917gH4n2qnsf2gmnhp6Oqa4VFLKWuLuJb1Q3Mebxa1+Ysbm5U+38m1DCf/sD+TMpWNJymTwW0mTLZraGKvphUxdxD2E6seB1mO+zXmCDzWs3ebWuxWGSZ0QiLH5LBxffqNde5A+MoPURSbP1TZ4w51DVAB7eOV2W+XX4TdXNPNuZvK6224YWpJx3TD+VGoqEpbX9EOVps84N5dbM+VlPh3TdE4tcWPe62pAJszS+U+xSfZDaGsq5HsqaF1K1rQWudnOY3tl6zR5qtNioMTfNWe50kUdpPfeky69eTJa7HfK7uIVqbHQ4ixknujJHI4uHR9HlsG21Bsxut0yTK8a/2LSRh4Pte6fE6jDjEGthY5wkDiS7KYxYttp+k7+Slqq3ZL/5HXfupP46dWkqZEk1r4K2kgqwxzefLDPLFHDG5rHuaHEuucpsTp4gqdbU4qKSlln5tbZni92jB7SPVdc41Enitvp8Srbo6PpsU0nVItnY7eLUV9YylMETWkOc9wc4kNaOIB8S0etWUqj3GYVd1RWuGmkMZ9jpD/APUVbixy6VaRz5NcugiIsygREQBERAEREAREQBQTfFs/6XQmVgvJTkyNtxLP1jfZr9FTtfjmgggi4PEKU9PZKejkSMq99zG0fpFKaN598p9G34mE9j6p6vgMveqp2+2cOHVj4QPendeE/IJ7Pm03HqWJs1jUlDUR1MXaYdW8A9p7TD4Eew2PJdbXOTdrki/Ns9hoMSyyFzopmCzZW2OgNwHA9oA6jUEd60FJusc6Rj62vmqWsILW3kaQRws50ji36Nj4qeYNikVXCyohdmY8XHeO9p7nA3BHeFmrnWSp6MudLoi22myHuk6nd03RdA5zuxnzXLDbtC3Y8eK220uE+mU0tLnydI22a2a2oN7XF+HetmiryfX+Cu2RI7HOGFjC2VOXiHS9HclpkL3Ny59L3y8eF+9bjZ7AoqOmipmgO6Nti4tALnHV77cruJNvFbVEdNh0yKU+xvRYk7Eopsge0iSHJcOu0A2dmFus1juB1B7194Lsj6NX1GIdNm6cOHR5MuXM5p7WY37PcOKlCJzZPJkM2z3fRYhMyobJ0MjbB5DM4eB2bjMLOHDN3achbO292U91YGQdN0WWTPmydJfqPba2Ztu3e/gpKiK66/wOTNdieDRVNM6kmGZjmhp5EEcHN7nAgEeS1WwmyfuXFJF03S55M98mS3Va21sxv2ftUmRRyetEbetFZDdVK18j4sSli6RxcRGx7L3JIByzC9rnj3qQ7IbJTUMr5Ja6WpDmZQ1+ezTcHMM0jtdLcOaliKzyU1pku2yu8Y3aPmqpquOufA6U3sxjgQLDq5mygkdUFbPZLYyehnM0lfLUNLHN6N+e1y5pD+tI4XGUjh8JTFR/bXaRuH05k0Mr7tib3u+Mfkt4n1DmFKq6/EtLq3xRAd7+P9JK2jYerF1pPGQjQfRafa7wVZljpHtjYMznuDWgcy42AXtWVBcXPcS5ziS4niSTck+JJJU63M7NmaY4hIOpES2K/wpLau+iNPMrsprHj0duVrFChFqbK4K2hpYqZuuRvWPe8m7z7SVtkReeecEREAREQBERAEREAREQBERARLeTskMTpS1gAniu6EnmfhRk/FcBbwIB5LnOzmktcCHNJDgdCCDYgjkQdF1ytJWbI0E0jppaSF8jtXOcxriSBa5v4ALXHk4l4vRSm7rbR2Gy5JLuppD740aljuHStHM2tccwO8BdA01QyVjZI3B7HAFrmm4IPAgjiFCN4WC0VJhtTJFSwRuytaHMija4F72sBBDb36yrbYLbuXDXdG68lM43dH8JpPF8d9AeZbwPgdVdz9xckXa5raOhUWFg+LQ1cQmgkD2HmOIPNrgdWuHcdVmrnMQiIgCIiAIiIAiIgCItLtNtPT4ezNK67yOpGO271cm/KOnr0UpNvSJSbekZWOYxFRwunmdZo4AdpzuTGjmT/mdAVz9tRtBLXTOnl05MYOyxvJo7/E8z6gPrafaSevl6WY2AuGMHZYDyHee93E+VgNLTwSTyNghYXyPNmtHEn8B4rvx4ljnb8ndjhYlv2ZWAYPLiFSymi4uN3O5MYO04/642XSWD4ZHSQsp4hZjBYePeT4k6+taTYHZBmGQZdHTPsZX955Mb8kfbxUoXJlyc2cmS+TCIiyMwiIgCIiAIiIAiIgCIiAIiIAiIgIrvNwiesw+SCnAc8uY7KTbMGPDi0X0zaaXXOTw5jix4LXNNnNcCHAjiCDqCut1FNs9g6XExmcOjnAs2ZoF9OAePht89e4ha48nHpl4viUNgWPVFFJ0tPIWO0uOLXAfBe06OHHxF9CFb+y+9emnAZVj0eT42phPjfiz6Wg+MVVO1Ox1ZhpPTR5o+UzLujPdc8WHwdbwutEx66GotGz435OtIJmvaHscHNOoc0ggjvBGhXouWsIxyopDmp5nxHiQ09Unvc09V3rBU3wve7WR6TRxTDv1iefMi7fY0LF4H6KPE/TLuRVrSb4qY26SnmaeeUxvHtLmn7Fsmb1cOPF0o84z+F1R4rXop9uvgnCKCy718PHDpneUdv4iFq6zfFCB7zSyOP/ADHsj/hzosVv0Fip+izli4hiMNOzpJpGRt73EN9QvxPgFS2Kb0q+a4jMcA+Q3M71ufcewBRKrr5JXdJLI6R/xnuLzbuuToPBbR9K3+zNZwfLLQ2m3pjWOib/AN54t62MOvrdb5pVX19a+V5kke573G7nONyfby8OAWHLUKVbK7vKyvIe8Gng453jruHyGHX6RsPNdO8eJdG3KMa6I5h9FNVytp6dhfI7kOQ5uceAaO8q+Ngth4sMZmJElQ8deS2gHxGdzftPPuG12a2apsOj6KnZa/bedZHnve7n5cByAW4XFlzOzlyZHTCIixMwiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiID5ewOBBAIOhB1BHcVBto91dDVXdEDTSHnGBkJ8WHT2WU7RSm14JT0c/4zunxCC5iyVDR8Q5X/VfbXyJURrcNqKfSaCWP57HN+0iy6uX45oIsRceK1Wai6yM5IEw5FfQlXUNVs1RS/pKWB3nGz8lr3bAYYdfQ4vYR9xV/5Bb7pzcZl+Cfkul4th8NaLCig9bA4+06rZ0mD08NujgiZbhlYxp+wI/qPgfdObsL2fran9DTSuHxspa36zrBTLB90NVJY1MzIW82s98f5X0aPtV2IqPPTKvI2RjZ3YKhoSHxxZ5B+sk67794vo31AKToiyb2Z7CIigBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAf/9k=" group-title="CINE LATINO",CINE | UNIVERSAL CHANEL  HD
+http://electrocopperonline.com:8080/Paul/1234/17213
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE  | STUDIO UNIVERSAL  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_G4WnSyQgJoobZi_JQ1D0HNpClNyqCAmTDg&usqp=CAU" group-title="CINE LATINO",CINE  | STUDIO UNIVERSAL  HD
+http://electrocopperonline.com:8080/Paul/1234/17216
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE | FX  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="CINE LATINO",CINE | FX  HD
+http://electrocopperonline.com:8080/Paul/1234/17219
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE | SPACE CHANEL  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU" group-title="CINE LATINO",CINE | SPACE CHANEL  HD
+http://electrocopperonline.com:8080/Paul/1234/17223
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE | AMC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="CINE LATINO",CINE | AMC HD
+http://electrocopperonline.com:8080/Paul/1234/17226
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE | GOLDEN  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="CINE LATINO",CINE | GOLDEN  HD
+http://electrocopperonline.com:8080/Paul/1234/17229
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE | GOLDEN EDG  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" group-title="CINE LATINO",CINE | GOLDEN EDG  HD
+http://electrocopperonline.com:8080/Paul/1234/17232
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE | GOLDEN PREMIER  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9O4LcnjKCXpeYqAKqoMBL8AlgEW4KvxMe9w&usqp=CAU" group-title="CINE LATINO",CINE | GOLDEN PREMIER  HD
+http://electrocopperonline.com:8080/Paul/1234/17235
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE | PARAMOUNT CHANEL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoLcVhN7sW34YgTU8sCI6EtLwRAeGUp9-h_A&usqp=CAU" group-title="CINE LATINO",CINE | PARAMOUNT CHANEL HD
+http://electrocopperonline.com:8080/Paul/1234/17238
+#EXTINF:-1 tvg-ID="ext" tvg-name="CINE | GOLDEN PLUS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" group-title="CINE LATINO",CINE | GOLDEN PLUS HD
+http://electrocopperonline.com:8080/Paul/1234/17241
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: Dorcel XXX" tvg-logo="" group-title="XXX",XXX: Dorcel XXX
+http://electrocopperonline.com:8080/Paul/1234/16175
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: Penthouse Gold" tvg-logo="" group-title="XXX",XXX: Penthouse Gold
+http://electrocopperonline.com:8080/Paul/1234/16176
+#EXTINF:-1 tvg-ID="ext" tvg-name="Penthouse Quickies" tvg-logo="" group-title="XXX",Penthouse Quickies
+http://electrocopperonline.com:8080/Paul/1234/16177
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: Super One" tvg-logo="" group-title="XXX",XXX: Super One
+http://electrocopperonline.com:8080/Paul/1234/16178
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX AST TV 1" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",XXX AST TV 1
+http://electrocopperonline.com:8080/Paul/1234/16179
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX BABES TV" tvg-logo="" group-title="XXX",XXX BABES TV
+http://electrocopperonline.com:8080/Paul/1234/16180
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX Balkan Erotic" tvg-logo="" group-title="XXX",XXX Balkan Erotic
+http://electrocopperonline.com:8080/Paul/1234/16181
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX Barely Legal" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",XXX Barely Legal
+http://electrocopperonline.com:8080/Paul/1234/16182
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: BIG CALEMBO" tvg-logo="" group-title="XXX",XXX: BIG CALEMBO
+http://electrocopperonline.com:8080/Paul/1234/16183
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: BRAZER COMP" tvg-logo="" group-title="XXX",XXX: BRAZER COMP
+http://electrocopperonline.com:8080/Paul/1234/16184
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX BRAZzERS LIVE" tvg-logo="" group-title="XXX",XXX BRAZzERS LIVE
+http://electrocopperonline.com:8080/Paul/1234/16185
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX BRAZZERs TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/1200px-Pornproject_logo.svg.png" group-title="XXX",XXX BRAZZERs TV
+http://electrocopperonline.com:8080/Paul/1234/16186
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: BUNGA" tvg-logo="" group-title="XXX",XXX: BUNGA
+http://electrocopperonline.com:8080/Paul/1234/16187
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX Daddy Porn HD" tvg-logo="" group-title="XXX",XXX Daddy Porn HD
+http://electrocopperonline.com:8080/Paul/1234/16188
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX DDF Network 2" tvg-logo="" group-title="XXX",XXX DDF Network 2
+http://electrocopperonline.com:8080/Paul/1234/16189
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX BLUE" tvg-logo="" group-title="XXX",XXX BLUE
+http://electrocopperonline.com:8080/Paul/1234/16190
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX PENTHOUSE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/1200px-Pornproject_logo.svg.png" group-title="XXX",XXX PENTHOUSE TV
+http://electrocopperonline.com:8080/Paul/1234/16191
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX DUSK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/1200px-Pornproject_logo.svg.png" group-title="XXX",XXX DUSK
+http://electrocopperonline.com:8080/Paul/1234/16192
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX EVIL Y ANGEL" tvg-logo="https://i.ytimg.com/vi/PTCAHr75Whs/hqdefault.jpg" group-title="XXX",XXX EVIL Y ANGEL
+http://electrocopperonline.com:8080/Paul/1234/16193
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX FETISH HC" tvg-logo="" group-title="XXX",XXX FETISH HC
+http://electrocopperonline.com:8080/Paul/1234/16194
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX FTV Midnight Secrets (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/1200px-Pornproject_logo.svg.png" group-title="XXX",XXX FTV Midnight Secrets (HD)
+http://electrocopperonline.com:8080/Paul/1234/16195
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX GIRLS GONE WILD" tvg-logo="" group-title="XXX",XXX GIRLS GONE WILD
+http://electrocopperonline.com:8080/Paul/1234/16196
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX Glamour porn" tvg-logo="" group-title="XXX",XXX Glamour porn
+http://electrocopperonline.com:8080/Paul/1234/16197
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX GONZO com HD" tvg-logo="" group-title="XXX",XXX GONZO com HD
+http://electrocopperonline.com:8080/Paul/1234/16198
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX Hardcore" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="XXX",XXX Hardcore
+http://electrocopperonline.com:8080/Paul/1234/16199
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX HUSTLER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/1200px-Pornproject_logo.svg.png" group-title="XXX",XXX HUSTLER TV
+http://electrocopperonline.com:8080/Paul/1234/16200
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX Interracial Porn" tvg-logo="" group-title="XXX",XXX Interracial Porn
+http://electrocopperonline.com:8080/Paul/1234/16201
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX Jasmin TV (HD)" tvg-logo="https://www.nibbletv.info/img/ch/jasmintv.png" group-title="XXX",XXX Jasmin TV (HD)
+http://electrocopperonline.com:8080/Paul/1234/16202
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX Mateur Milfs" tvg-logo="" group-title="XXX",XXX Mateur Milfs
+http://electrocopperonline.com:8080/Paul/1234/16203
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX Meiden Van Holland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/1200px-Pornproject_logo.svg.png" group-title="XXX",XXX Meiden Van Holland
+http://electrocopperonline.com:8080/Paul/1234/16204
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX Mia" tvg-logo="" group-title="XXX",XXX Mia
+http://electrocopperonline.com:8080/Paul/1234/16205
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX MILF" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="XXX",XXX MILF
+http://electrocopperonline.com:8080/Paul/1234/16206
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX MILF TV" tvg-logo="" group-title="XXX",XXX MILF TV
+http://electrocopperonline.com:8080/Paul/1234/16207
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: NEGRAS Y NEGROS" tvg-logo="" group-title="XXX",XXX: NEGRAS Y NEGROS
+http://electrocopperonline.com:8080/Paul/1234/16208
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX PAJEROS" tvg-logo="" group-title="XXX",XXX PAJEROS
+http://electrocopperonline.com:8080/Paul/1234/16209
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX PLAYBOY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/1200px-Pornproject_logo.svg.png" group-title="XXX",XXX PLAYBOY
+http://electrocopperonline.com:8080/Paul/1234/16210
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: Playboy Europe" tvg-logo="" group-title="XXX",XXX: Playboy Europe
+http://electrocopperonline.com:8080/Paul/1234/16211
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX POV" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="XXX",XXX POV
+http://electrocopperonline.com:8080/Paul/1234/16212
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX PRIVATE TV HD" tvg-logo="" group-title="XXX",XXX PRIVATE TV HD
+http://electrocopperonline.com:8080/Paul/1234/16213
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX PUBLIC SEX" tvg-logo="" group-title="XXX",XXX PUBLIC SEX
+http://electrocopperonline.com:8080/Paul/1234/16214
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX REALKINGS" tvg-logo="" group-title="XXX",XXX REALKINGS
+http://electrocopperonline.com:8080/Paul/1234/16215
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX Rough SEX" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",XXX Rough SEX
+http://electrocopperonline.com:8080/Paul/1234/16216
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX TEENS" tvg-logo="" group-title="XXX",XXX TEENS
+http://electrocopperonline.com:8080/Paul/1234/16217
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX TUSHI RAW" tvg-logo="" group-title="XXX",XXX TUSHI RAW
+http://electrocopperonline.com:8080/Paul/1234/16218
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX Visit-X TV" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",XXX Visit-X TV
+http://electrocopperonline.com:8080/Paul/1234/16219
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX Visit-X TV (Opt-1)" tvg-logo="http://images.zattic.com/logos/99c52002fd7a7a01f017/white/210x120.png" group-title="XXX",XXX Visit-X TV (Opt-1)
+http://electrocopperonline.com:8080/Paul/1234/16220
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX | PINK O TV" tvg-logo="" group-title="XXX",XXX | PINK O TV
+http://electrocopperonline.com:8080/Paul/1234/16221
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: ALBA 5" tvg-logo="" group-title="XXX",XXX: ALBA 5
+http://electrocopperonline.com:8080/Paul/1234/16222
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: ALBA  1  HD" tvg-logo="" group-title="XXX",XXX: ALBA  1  HD
+http://electrocopperonline.com:8080/Paul/1234/16223
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: ALBA XXX 3" tvg-logo="" group-title="XXX",XXX: ALBA XXX 3
+http://electrocopperonline.com:8080/Paul/1234/16224
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: ALBA XXX 4" tvg-logo="" group-title="XXX",XXX: ALBA XXX 4
+http://electrocopperonline.com:8080/Paul/1234/16225
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: BANG BROS" tvg-logo="" group-title="XXX",XXX: BANG BROS
+http://electrocopperonline.com:8080/Paul/1234/16226
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: Bang.com" tvg-logo="" group-title="XXX",XXX: Bang.com
+http://electrocopperonline.com:8080/Paul/1234/16227
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: Creampie" tvg-logo="" group-title="XXX",XXX: Creampie
+http://electrocopperonline.com:8080/Paul/1234/16228
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: CZECH STREET PORN" tvg-logo="" group-title="XXX",XXX: CZECH STREET PORN
+http://electrocopperonline.com:8080/Paul/1234/16229
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: NUART HD" tvg-logo="" group-title="XXX",XXX: NUART HD
+http://electrocopperonline.com:8080/Paul/1234/16230
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: DDFNET" tvg-logo="" group-title="XXX",XXX: DDFNET
+http://electrocopperonline.com:8080/Paul/1234/16231
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: Desire" tvg-logo="https://i.ytimg.com/vi/PTCAHr75Whs/hqdefault.jpg" group-title="XXX",XXX: Desire
+http://electrocopperonline.com:8080/Paul/1234/16232
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: Erotic 8" tvg-logo="" group-title="XXX",XXX: Erotic 8
+http://electrocopperonline.com:8080/Paul/1234/16233
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: Erox-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/1200px-Pornproject_logo.svg.png" group-title="XXX",XXX: Erox-hd
+http://electrocopperonline.com:8080/Paul/1234/16234
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: FaKINGS" tvg-logo="" group-title="XXX",XXX: FaKINGS
+http://electrocopperonline.com:8080/Paul/1234/16235
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: GLORY HOLE" tvg-logo="" group-title="XXX",XXX: GLORY HOLE
+http://electrocopperonline.com:8080/Paul/1234/16236
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: HotClub FHD" tvg-logo="" group-title="XXX",XXX: HotClub FHD
+http://electrocopperonline.com:8080/Paul/1234/16237
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: Legal PORN HD" tvg-logo="" group-title="XXX",XXX: Legal PORN HD
+http://electrocopperonline.com:8080/Paul/1234/16238
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: Miami TV (after 8pm)" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",XXX: Miami TV (after 8pm)
+http://electrocopperonline.com:8080/Paul/1234/16239
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: MOFOS" tvg-logo="" group-title="XXX",XXX: MOFOS
+http://electrocopperonline.com:8080/Paul/1234/16240
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: PASSIE Bondage" tvg-logo="https://i.ytimg.com/vi/PTCAHr75Whs/hqdefault.jpg" group-title="XXX",XXX: PASSIE Bondage
+http://electrocopperonline.com:8080/Paul/1234/16241
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: PINK EROTIC 1" tvg-logo="" group-title="XXX",XXX: PINK EROTIC 1
+http://electrocopperonline.com:8080/Paul/1234/16242
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: PINK EROTIC 2" tvg-logo="" group-title="XXX",XXX: PINK EROTIC 2
+http://electrocopperonline.com:8080/Paul/1234/16243
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: PINK EROTIC 3" tvg-logo="" group-title="XXX",XXX: PINK EROTIC 3
+http://electrocopperonline.com:8080/Paul/1234/16244
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: PINK EROTIC 4" tvg-logo="" group-title="XXX",XXX: PINK EROTIC 4
+http://electrocopperonline.com:8080/Paul/1234/16245
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: PINK EROTIC 5" tvg-logo="" group-title="XXX",XXX: PINK EROTIC 5
+http://electrocopperonline.com:8080/Paul/1234/16246
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: REALITY KINGS" tvg-logo="" group-title="XXX",XXX: REALITY KINGS
+http://electrocopperonline.com:8080/Paul/1234/16247
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: SChoolgirl porn" tvg-logo="" group-title="XXX",XXX: SChoolgirl porn
+http://electrocopperonline.com:8080/Paul/1234/16248
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: SCT" tvg-logo="" group-title="XXX",XXX: SCT
+http://electrocopperonline.com:8080/Paul/1234/16249
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: SEXT6SENSO" tvg-logo="" group-title="XXX",XXX: SEXT6SENSO
+http://electrocopperonline.com:8080/Paul/1234/16250
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: SHALUN TV" tvg-logo="https://i.ytimg.com/vi/PTCAHr75Whs/hqdefault.jpg" group-title="XXX",XXX: SHALUN TV
+http://electrocopperonline.com:8080/Paul/1234/16251
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: TEENS FOR CASH" tvg-logo="" group-title="XXX",XXX: TEENS FOR CASH
+http://electrocopperonline.com:8080/Paul/1234/16252
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: VIVID RED" tvg-logo="https://i.ytimg.com/vi/PTCAHr75Whs/hqdefault.jpg" group-title="XXX",XXX: VIVID RED
+http://electrocopperonline.com:8080/Paul/1234/16253
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: Vivid Red HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/1200px-Pornproject_logo.svg.png" group-title="XXX",XXX: Vivid Red HD
+http://electrocopperonline.com:8080/Paul/1234/16254
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: GAY MAX HD" tvg-logo="" group-title="XXX",XXX: GAY MAX HD
+http://electrocopperonline.com:8080/Paul/1234/16255
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: HARD GAY HD" tvg-logo="" group-title="XXX",XXX: HARD GAY HD
+http://electrocopperonline.com:8080/Paul/1234/16256
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: NEO Gay 2" tvg-logo="" group-title="XXX",XXX: NEO Gay 2
+http://electrocopperonline.com:8080/Paul/1234/16257
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: Naked TV HD" tvg-logo="https://i.ytimg.com/vi/PTCAHr75Whs/hqdefault.jpg" group-title="XXX",XXX: Naked TV HD
+http://electrocopperonline.com:8080/Paul/1234/16258
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: ADULTV SD" tvg-logo="https://i.ytimg.com/vi/PTCAHr75Whs/hqdefault.jpg" group-title="XXX",XXX: ADULTV SD
+http://electrocopperonline.com:8080/Paul/1234/16259
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: Brazzers SD" tvg-logo="https://i.ytimg.com/vi/PTCAHr75Whs/hqdefault.jpg" group-title="XXX",XXX: Brazzers SD
+http://electrocopperonline.com:8080/Paul/1234/16260
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: BRattSIS HD" tvg-logo="https://i.ytimg.com/vi/PTCAHr75Whs/hqdefault.jpg" group-title="XXX",XXX: BRattSIS HD
+http://electrocopperonline.com:8080/Paul/1234/16261
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: ASS &ass HD" tvg-logo="https://i.ytimg.com/vi/PTCAHr75Whs/hqdefault.jpg" group-title="XXX",XXX: ASS &ass HD
+http://electrocopperonline.com:8080/Paul/1234/16262
+#EXTINF:-1 tvg-ID="ext" tvg-name="XXX: Sextreme SD/hd" tvg-logo="" group-title="XXX",XXX: Sextreme SD/hd
+http://electrocopperonline.com:8080/Paul/1234/16263
