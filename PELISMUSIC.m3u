@@ -1,0 +1,253 @@
+#EXTM3U
+
+#EXTINF:0 type="stream" channelId="-1" name="DHE HD", DHE HD
+http://38.43.140.97:8000/play/a00f/index.m3u8
+
+#EXTINF:0 type="stream" channelId="1962" name="GOLDEN HD", GOLDEN HD
+http://38.43.140.97:8000/play/a00n/index.m3u8
+
+#EXTINF:0 type="stream" channelId="935" name="HBO 2 HD", HBO 2 HD
+http://38.43.140.97:8000/play/a01e/index.m3u8
+
+#EXTINF:0 type="stream" channelId="2584" name="HBO FAMILY HD", HBO FAMILY HD
+http://38.43.140.97:8000/play/a00j/index.m3u8
+
+#EXTINF:0 type="stream" channelId="1330" name="HBO HD", HBO HD
+http://38.43.140.97:8000/play/a01h/index.m3u8
+
+#EXTINF:0 type="stream" channelId="361" name="HBO POP HD", HBO POP HD
+http://38.43.140.97:8000/play/a03r/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="HBO XTREME HD", HBO XTREME HD
+http://38.43.140.97:8000/play/a00k/index.m3u8
+
+#EXTINF:0 type="stream" channelId="1304" name="FX HD", FX HD
+http://38.43.140.97:8000/play/a01v/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="PARAMOUNT HD", PARAMOUNT HD
+http://38.43.140.97:8000/play/a01a/index.m3u8
+
+#EXTINF:0 type="stream" channelId="4696" name="STAR TVE HD", STAR TVE HD
+http://38.43.140.97:8000/play/a01c/index.m3u8
+
+#EXTINF:0 type="stream" channelId="530" name="SONY HD", SONY HD
+http://38.43.140.97:8000/play/a03m/index.m3u8
+
+#EXTINF:0 type="stream" channelId="2896" name="SPACE HD", SPACE HD
+http://38.43.140.97:8000/play/a03p/index.m3u8
+
+#EXTINF:0 type="stream" channelId="2147" name="STUDIO UNIVERSAL HD", STUDIO UNIVERSAL HD
+http://38.43.140.97:8000/play/a01b/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL CHANNEL HD", UNIVERSAL CHANNEL HD
+http://38.43.140.97:8000/play/a01m/index.m3u8
+
+#EXTINF:0 type="stream" channelId="2903" name="WARNER CHANNEL HD", WARNER CHANNEL HD
+http://38.43.140.97:8000/play/a03n/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="WIN SPORTS HD", WIN SPORTS HD
+http://38.43.140.97:8000/play/a03s/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="WIN SPORTS+ HD", WIN SPORTS+ HD
+http://38.43.140.97:8000/play/a01f/index.m3u8
+
+#EXTINF:0 type="stream" channelId="284" name="CINECANAL HD", CINECANAL HD
+http://181.78.105.146:6060/play/a03d
+
+#EXTINF:0 type="stream" channelId="4774" name="CANAL CLARO", CANAL CLARO
+http://181.78.105.146:6060/play/a01f
+
+#EXTINF:0 type="stream" channelId="1326" name="CINEMAX", CINEMAX
+http://181.78.105.146:6060/play/a04a
+
+#EXTINF:0 type="stream" channelId="4751" name="CLARO MUSICA", CLARO MUSICA
+http://181.78.105.146:6060/play/a010
+
+#EXTINF:0 type="stream" channelId="2584" name="HBO FAMILY HD", HBO FAMILY HD
+http://181.78.105.146:6060/play/a00k
+
+#EXTINF:0 type="stream" channelId="1330" name="HBO HD", HBO HD
+http://181.78.105.146:6060/play/a00h
+
+#EXTINF:0 type="stream" channelId="2585" name="HBO PLUS HD", HBO PLUS HD
+http://181.78.105.146:6060/play/a00j
+
+#EXTINF:0 type="stream" channelId="2587" name="HBO XTREME", HBO XTREME
+http://181.78.105.146:6060/play/a00l
+
+#EXTINF:0 type="stream" channelId="935" name="HBO2 HD", HBO2 HD
+http://181.78.105.146:6060/play/a00i
+
+#EXTINF:0 type="stream" channelId="530" name="SONY HD", SONY HD
+http://181.78.105.146:6060/play/a03c
+
+#EXTINF:0 type="stream" channelId="2896" name="SPACE HD", SPACE HD
+http://181.78.105.146:6060/play/a04n
+
+#EXTINF:0 type="stream" channelId="-1" name="STAR CHANNEL HD", STAR CHANNEL HD
+http://181.78.105.146:6060/play/a03a
+
+#EXTINF:0 type="stream" channelId="-1" name="SONY MOVIES HD", SONY MOVIES HD
+http://181.78.105.146:6060/play/a02l
+
+#EXTINF:0 type="stream" channelId="4696" name="STAR TVE HD", STAR TVE HD
+http://181.78.105.146:6060/play/a02o
+
+#EXTINF:0 type="stream" channelId="73" name="SYFY", SYFY
+http://181.78.105.146:6060/play/a031
+
+#EXTINF:0 type="stream" channelId="67" name="TLC", TLC
+http://181.78.105.146:6060/play/a035
+
+#EXTINF:0 type="stream" channelId="2900" name="TNT HD", TNT HD
+http://181.78.105.146:6060/play/a03i
+
+#EXTINF:0 type="stream" channelId="2626" name="TRU TV", TRU TV
+http://181.78.105.146:6060/play/a01n
+
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL COMEDY", UNIVERSAL COMEDY
+http://181.78.105.146:6060/play/a017
+
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL COMEDY HD", UNIVERSAL COMEDY HD
+http://181.78.105.146:6060/play/a03t
+
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL CRIME HD", UNIVERSAL CRIME HD
+http://181.78.105.146:6060/play/a03s
+
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL PREMIERE HD", UNIVERSAL PREMIERE HD
+http://181.78.105.146:6060/play/a03p
+
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL PREMIERE O HD", UNIVERSAL PREMIERE O HD
+http://181.78.105.146:6060/play/a03q
+
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL REALITY HD", UNIVERSAL REALITY HD
+http://181.78.105.146:6060/play/a03r
+
+#EXTINF:0 type="stream" channelId="187" name="UNIVERSAL", UNIVERSAL
+http://181.78.105.146:6060/play/a046
+
+#EXTINF:0 type="stream" channelId="-1" name="UNIVISION HD", UNIVISION HD
+http://181.78.105.146:6060/play/a04u
+
+#EXTINF:0 type="stream" channelId="2903" name="WARNER HD", WARNER HD
+http://181.78.105.146:6060/play/a03b
+
+#EXTINF:0 type="stream" channelId="2503" name="A&E HD", A&E HD
+http://38.41.8.1:8000/play/a006
+
+#EXTINF:0 type="stream" channelId="-1" name="AE MUNDO", AE MUNDO
+http://38.41.8.1:8000/play/a07v
+
+#EXTINF:0 type="stream" channelId="2501" name="AMC HD", AMC HD
+http://38.41.8.1:8000/play/a01s
+
+#EXTINF:0 type="stream" channelId="2246" name="AXN HD", AXN HD
+http://38.41.8.1:8000/play/a009
+
+#EXTINF:0 type="stream" channelId="284" name="CINECANAL HD", CINECANAL HD
+http://38.41.8.1:8000/play/a01r
+
+#EXTINF:0 type="stream" channelId="2888" name="CINEMAX HD", CINEMAX HD
+http://38.41.8.1:8000/play/a00y
+
+#EXTINF:0 type="stream" channelId="4774" name="CANAL CLARO", CANAL CLARO
+http://38.41.8.1:8000/play/a073
+
+#EXTINF:0 type="stream" channelId="-1" name="CINE FAMILIAR", CINE FAMILIAR
+http://45.172.218.126:8000/play/a02u/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="CINE HISPANO", CINE HISPANO
+http://45.172.218.126:8000/play/a02v/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="CINE INFANTIL", CINE INFANTIL
+http://45.172.218.126:8000/play/a02x/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="CINE PREMIUN", CINE PREMIUN
+http://45.172.218.126:8000/play/a02w/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="LA KALLE", LA KALLE
+http://45.172.218.126:8000/play/a039/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="LA RED HD", LA RED HD
+http://45.172.218.126:8000/play/a065/index.m3u8
+
+#EXTINF:0 type="stream" channelId="2287" name="LAS ESTRELLAS HD", LAS ESTRELLAS HD
+http://45.172.218.126:8000/play/a01t/index.m3u8
+
+#EXTINF:0 type="stream" channelId="2545" name="LATINA", LATINA
+http://45.172.218.126:8000/play/a02o/index.m3u8
+
+#EXTINF:0 type="stream" channelId="1200" name="LIFETIME", LIFETIME
+http://45.172.218.126:8000/play/a02f/index.m3u8
+
+#EXTINF:0 type="stream" channelId="2035" name="LOVE NATURE HD", LOVE NATURE HD
+http://45.172.218.126:8000/play/a01q/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="MUSICA HITS", MUSICA HITS
+http://45.172.218.126:8000/play/a02y/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="MUSICA KPOP", MUSICA KPOP
+http://45.172.218.126:8000/play/a031/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="MUSICA POPULAR", MUSICA POPULAR
+http://45.172.218.126:8000/play/a030/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="MUSICA REGGEATON", MUSICA REGGEATON
+http://45.172.218.126:8000/play/a02z/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="MERIDIANO", MERIDIANO
+http://45.172.218.126:8000/play/a02p/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="M�SCHIC", M�SCHIC
+http://45.172.218.126:8000/play/a02h/index.m3u8
+
+#EXTINF:0 type="stream" channelId="333" name="GOLDEN", GOLDEN
+http://45.190.187.105:58091/play/a01x/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="GOLDEN PREMIERE 2 HD", GOLDEN PREMIERE 2 HD
+http://45.190.187.105:58091/play/a062/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="GOLDEN PREMIERE HD", GOLDEN PREMIERE HD
+http://45.190.187.105:58091/play/a061/index.m3u8
+
+#EXTINF:0 type="stream" channelId="1973" name="MTV", MTV
+http://45.190.187.105:58091/play/a05j/index.m3u8
+
+#EXTINF:0 type="stream" channelId="149" name="MTV 80S", MTV 80S
+http://45.190.187.105:58091/play/a01d/index.m3u8
+
+#EXTINF:0 type="stream" channelId="289" name="MTV HITS", MTV HITS
+http://45.190.187.105:58091/play/a064/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="MULTICINEMA", MULTICINEMA
+http://45.190.187.105:58091/play/a05x/index.m3u8
+
+#EXTINF:0 type="stream" channelId="292" name="MULTIPREMIER", MULTIPREMIER
+http://45.190.187.105:58091/play/a050/index.m3u8
+
+#EXTINF:0 type="stream" channelId="1201" name="H2", H2
+http://45.190.187.105:58091/play/a06p/index.m3u8
+
+#EXTINF:0 type="stream" channelId="2584" name="HBO FAMILY HD", HBO FAMILY HD
+http://45.190.187.105:58091/play/a00h/index.m3u8
+
+#EXTINF:0 type="stream" channelId="1330" name="HBO HD", HBO HD
+http://45.190.187.105:58091/play/a00e/index.m3u8
+
+#EXTINF:0 type="stream" channelId="2585" name="HBO PLUS HD", HBO PLUS HD
+http://45.190.187.105:58091/play/a00g/index.m3u8
+
+#EXTINF:0 type="stream" channelId="2587" name="HBO XTREME", HBO XTREME
+http://45.190.187.105:58091/play/a00t/index.m3u8
+
+#EXTINF:0 type="stream" channelId="935" name="HBO2 HD", HBO2 HD
+http://45.190.187.105:58091/play/a00f/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="HCH- HON", HCH- HON
+http://45.190.187.105:58091/play/a00y/index.m3u8
+
+#EXTINF:0 type="stream" channelId="1456" name="HISTORY HD", HISTORY HD
+http://45.190.187.105:58091/play/a01j/index.m3u8
+
+#EXTINF:0 type="stream" channelId="2903" name="WARNER HD", WARNER HD
+http://45.190.187.105:58091/play/a03d/index.m3u8
